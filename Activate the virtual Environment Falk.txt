@@ -1,0 +1,5 @@
+python -m venv Falk
+
+Falk\Scripts\activate
+
+pip install pandas openpyxl xlrd

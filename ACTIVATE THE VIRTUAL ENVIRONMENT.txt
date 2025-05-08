@@ -1,0 +1,5 @@
+python -m venv excel-env
+
+excel-env\Scripts\activate
+
+pip install pandas openpyxl xlrd
