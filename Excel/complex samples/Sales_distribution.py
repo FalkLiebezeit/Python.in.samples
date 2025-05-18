@@ -1,12 +1,9 @@
 from openpyxl import load_workbook
 from openpyxl.styles import PatternFill, Font, Alignment, numbers
-
-
-
-
 import random
 
-datei_pfad = "C:\\Users\\Falk\\TestData\\FoodOrder.xlsx"
+datei_pfad = "C:\\Users\\Falk\\TestData\\SalesDistribution.xlsx"
+#datei_pfad ="SalesDistribution.xlsx"
 
 wb = load_workbook(datei_pfad)
 
@@ -33,6 +30,8 @@ def get_price(id):
 # Beispiel-Liste mit Regionen
 region      = ["Berlin", "Hamburg", "München", "Köln", "Frankfurt","Hamburg", "Leipzig", "Dresden"]
 bundesland  = ["Brandenburg","Sachsen","Mecklenburg","Thüringen","Sachsen-Anhalt"]
+
+
 
 bundeslaender_mit_staedten = {
     "Baden-Württemberg": ["Stuttgart", "Karlsruhe", "Mannheim", "Freiburg", "Heidelberg", "Ulm", "Pforzheim", "Reutlingen", "Heilbronn", "Esslingen"],
