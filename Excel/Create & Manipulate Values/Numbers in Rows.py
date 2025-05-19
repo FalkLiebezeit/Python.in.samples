@@ -3,7 +3,7 @@ from openpyxl import Workbook
 
 
 # Eine Liste mit 10 Zahlen erstellen
-zahlen = list(range(1, 11))
+zahlen = list(range(0, 29))
 
 # Eine neue Excel-Arbeitsmappe erstellen
 wb = Workbook()
@@ -13,9 +13,12 @@ ws = wb.active
 for i, zahl in enumerate(zahlen, start=1):
     ws.cell(row=i, column=3, value=zahl)  # Spalte C entspricht Index 3
 
+print("Eingelesene Zahlen aus C0 bis Xxx:", zahlen)
+print("Zahle 1:", ws.cell(row=1, column=3).value)
+
 # Datei speichern
-#datei = "C:\\Users\\Falk\\TestData\\CreateRows.xlsx"
-datei = "CreateRows.xlsx"
+datei = "Numbers in Rows.xlsx"
+
 
 wb.save(datei)
 

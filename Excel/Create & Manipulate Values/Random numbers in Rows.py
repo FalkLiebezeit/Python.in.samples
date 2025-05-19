@@ -23,8 +23,8 @@ for i, zahl in enumerate(zahlen, start=1):
     ws.cell(row=i, column=5, value=random.randint(1, 100)) 
     
 # Datei speichern
-datei = "C:\\Users\\Falk\\TestData\\Rows with random numbers.xlsx"
-
+#datei = "C:\\Users\\Falk\\TestData\\Rows with random numbers.xlsx"
+datei = "Random numbers in Rows.xlsx"
 wb.save(datei)
 
 print(f"Die Datei '{datei}' wurde erfolgreich erstellt.")

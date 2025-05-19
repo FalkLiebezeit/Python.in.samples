@@ -2,7 +2,7 @@ import pandas as pd
 from openpyxl import load_workbook
 
 # Excel-Datei laden
-datei = "C:\\Users\\Falk\\TestData\\Basic pie chart diagram.xlsx"
+datei = "Basic_pie_chart_diagram.xlsx"
 df = pd.read_excel(datei, sheet_name="Sheet1")
 
 

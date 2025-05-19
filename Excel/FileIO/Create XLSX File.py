@@ -2,6 +2,8 @@
 # pip install openpyxl
 
 import pandas as pd
+import os
+
 
 import time;
 from datetime import datetime
@@ -29,8 +31,12 @@ df = pd.DataFrame(data)
 today =  str(datetime.today().date())
 
 # define file path
-fileDate = " ".join(["C:\\Users\\Falk\\TestData\\XLScreated", today])
-fileDateTime = " ".join(["C:\\Users\\Falk\\TestData\\XLScreated", localtime])
+#fileDate = " ".join(["C:\\Users\\Falk\\TestData\\XLScreated", today])
+#fileDateTime = " ".join(["C:\\Users\\Falk\\TestData\\XLScreated", localtime])
+
+fileDate = " ".join([".\\Excel\\FileIO\\Create XLSX File", today])
+#fileDateTime = " ".join([".\\Excel\\FileIO\\Create XLSX File", localtime])
+
 
 
 file_path = " ".join([fileDate, ".xlsx"])
