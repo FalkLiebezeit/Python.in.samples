@@ -1,22 +1,26 @@
-'''Program E6x4.py'''
-# Finding Greatest Common Divisor of 2 given numbers
-# called function
-def gcd(num1, num2): # function header
-    if(num2==0):
+# Finding the Greatest Common Divisor (GCD) of two numbers using recursion
+
+def gcd(num1, num2):  # Function definition
+    if num2 == 0:  # Base case: If num2 is zero, return num1
         return num1
-    else:
-         return(gcd(num2, num1%num2))
+    else:  # Recursive calculation of the GCD
+        return gcd(num2, num1 % num2)
 
-
-# calling function
+# Main function for user input and computation
 def main():
-    a=eval(input('enter an integer: '))
-    b=eval(input('enter an integer: '))
-    if b>a:    # swap the numbers
-        temp=a
-        a=b
-        b=temp
-    result = gcd(a,b)
-    print('gcd of', a,'and', b,'= ', result)
+    try:
+        # Using int(input()) instead of eval(input()), since eval can be unsafe
+        a = int(input('Enter an integer: '))
+        b = int(input('Enter an integer: '))
 
-main() # main function call
+        # Ensure 'a' is the larger number without using a temporary variable
+        if b > a:    
+            a, b = b, a  # Pythonic way to swap values
+
+        result = gcd(a, b)  # Compute GCD
+        print('GCD of', a, 'and', b, '= ', result)
+
+    except ValueError:  # Error handling for invalid input
+        print("Invalid input! Please enter valid integers.")
+
+main()  # Call the main function

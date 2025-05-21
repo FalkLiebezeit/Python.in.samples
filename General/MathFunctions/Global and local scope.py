@@ -1,4 +1,3 @@
-# Program E6x11.py
 # global and local scope
 X = 5
 # Uses global because there is no local 'X'

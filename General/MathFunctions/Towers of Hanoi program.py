@@ -1,4 +1,3 @@
-# Program E6x18.py
 # Towers of Hanoi program
 def xfer(n, s,  d, temp):
         if(n==1):
