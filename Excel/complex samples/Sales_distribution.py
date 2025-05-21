@@ -2,6 +2,8 @@ from openpyxl import load_workbook
 from openpyxl.styles import PatternFill, Font, Alignment, numbers
 import random
 
+import os
+
 datei_pfad = "C:\\Users\\Falk\\TestData\\SalesDistribution.xlsx"
 #datei_pfad ="SalesDistribution.xlsx"
 
@@ -11,6 +13,9 @@ bestellungen = wb["Bestellungen"]
 preisliste   = wb["Preisliste"]
 
 anzahl_bestellungen = random.randint(5, 19) 
+
+aktuelles_verzeichnis = os.getcwd()
+print(f"Aktuelles Verzeichnis: {aktuelles_verzeichnis}")
 
 
 
