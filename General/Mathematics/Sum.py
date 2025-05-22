@@ -1,4 +1,3 @@
-'''Program E6x2.py'''
 # called function 
 def sum(num1, num2): # function header
     total=num1+num2

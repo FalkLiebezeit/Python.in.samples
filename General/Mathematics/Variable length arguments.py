@@ -1,4 +1,3 @@
-'''Program E6x14.py'''
 # variable length arguments
 # called function 
 def called(*args): # function header
