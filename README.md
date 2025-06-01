@@ -2,7 +2,7 @@
 
 # Introduction
 
-This is an unofficial fork of the samples I found in the internet. 
+This is an unofficial fork of samples I found in the internet. 
 No representation is made that the source code belongs to me, it's simply reproduced here for convenience.
 
 # Building
