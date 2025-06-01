@@ -31,6 +31,7 @@ def plot_function(choice):
     plt.show()
 
 def main():
+    
     while True:
         print("\nSelect a function to display:")
         print("1. Sine Curve")
