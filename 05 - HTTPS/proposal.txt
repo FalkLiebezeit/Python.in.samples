@@ -1,0 +1,14 @@
+Es gibt einige zuverlässige Webservices, die kostenlose Aktienpreise über APIs bereitstellen – ideal für Entwickler oder Finanzinteressierte wie dich, Falk. Hier sind zwei besonders beliebte Optionen:
+
+- Alpha Vantage: Bietet kostenlose APIs für Echtzeitkurse, historische Daten, technische Indikatoren und mehr. 
+  Unterstützt viele Programmiersprachen und lässt sich sogar in Excel oder Google Sheets integrieren.
+- Marketstack: Eine REST-API mit einfacher Integration, die Zugang zu über 125.000 Aktientickern weltweit bietet. 
+  Die kostenlose Version erlaubt bis zu 1000 Abfragen pro Monat mit aktuellen Kursdaten.
+
+Wenn du eher auf Echtzeitdaten fokussiert bist, lohnt sich auch ein Blick auf die Übersicht von AnkhLabs, die verschiedene kostenlose Aktienkurs-APIs vergleichen.
+Willst du die Daten in eine eigene App einbauen oder einfach nur beobachten, wie sich deine Lieblingsaktien entwickeln? 
+Ich helfe dir gern beim nächsten Schritt. 📈💡
+
+Gern geschehen, Falk! Wenn du mal Lust hast, ein kleines Aktien-Dashboard zu basteln oder 
+automatisiert Kurse zu tracken – sag Bescheid, 
+ich helf dir gern beim Einstieg. 

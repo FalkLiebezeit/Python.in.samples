@@ -1,0 +1,591 @@
+Depotstammnummer;Buchungsdatum;Transaktion;Fondsname;WKN;ISIN;Fondsgesellschaft;Anteile;Abrechnungsdatum;Abrechnungspreis;Fondswährung;Ausgabeaufschlag in %;Rabatt in %;Abrechnungsbetrag in EUR;Abrechnungsbetrag in Fondswährung
+1003920840;27.06.2025;Kauf;iShares S&P 500 Information Technology Sector UCITS ETF;A142N1;IE00B3WJKG14;iShares;1,617;26.06.2025;36,03;USD;0,2;100;50;58,25
+1003920840;24.06.2025;Tausch Gesamt (Kauf);iShares S&P 500 Information Technology Sector UCITS ETF;A142N1;IE00B3WJKG14;iShares;1858,411;23.06.2025;34,615;USD;0,2;100;55826,14;64328,91
+1003920840;23.06.2025;Tausch Gesamt (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;320,104;20.06.2025;174,4;EUR;-;-;55826,14;55826,14
+1003920840;19.06.2025;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,417;18.06.2025;176,4;EUR;-;-;250;250
+1003920840;18.06.2025;Tausch (Kauf);Amundi MSCI Emerging Ex China UCITS ETF Acc;LYX99G;LU2009202107;Lyxor International Asset Management S.A.S.;1592,391;17.06.2025;28,735;USD;0,2;100;40000;45757,36
+1003920840;17.06.2025;Tausch (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;227,015;16.06.2025;176,2;EUR;-;-;40000;40000
+1003920840;18.06.2025;Tausch (Kauf);iShares MSCI South Africa UCITS ETF;A0YJ8Y;IE00B52XQP83;iShares;264,005;17.06.2025;43,33;USD;0,2;100;10000;11439,34
+1003920840;17.06.2025;Tausch (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;56,754;16.06.2025;176,2;EUR;-;-;10000;10000
+1003920840;17.06.2025;Kauf aus Sparplan;iShares S&P 500 Information Technology Sector UCITS ETF;A142N1;IE00B3WJKG14;iShares;0,835;16.06.2025;34,39;USD;0,2;100;25;28,71
+1003920840;17.06.2025;Kauf aus Sparplan;UBS (Lux) Fund Solutions - UBS Solactive China Technology UCITS ETF A  ;A2QJ9G;LU2265794276;UBS (Luxembourg) S.A.;3,694;16.06.2025;7,773;USD;0,2;100;25;28,71
+1003920840;17.06.2025;Kauf aus Sparplan;Amundi MSCI Emerging Ex China UCITS ETF Acc;LYX99G;LU2009202107;Lyxor International Asset Management S.A.S.;0,994;16.06.2025;28,87;USD;0,2;100;25;28,71
+1003920840;16.06.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;0,491;16.06.2025;50,95;EUR;0,2;100;25;25
+1003920840;17.06.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,142;16.06.2025;176,2;EUR;0;100;25;25
+1003920840;13.06.2025;Tausch (Kauf);UBS (Lux) Fund Solutions - UBS Solactive China Technology UCITS ETF A  ;A2QJ9G;LU2265794276;UBS (Luxembourg) S.A.;4239,551;12.06.2025;7,847;USD;0,2;100;29000;33267,76
+1003920840;11.06.2025;Tausch (Verkauf);Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;559,521;11.06.2025;51,83;EUR;-;-;29000;29000
+1003920840;10.06.2025;Kauf;UBS (Lux) Fund Solutions - UBS Solactive China Technology UCITS ETF A  ;A2QJ9G;LU2265794276;UBS (Luxembourg) S.A.;730,039;09.06.2025;7,7599;USD;0,2;100;5000;5665,03
+1003920840;10.06.2025;Kauf;UBS (Lux) Fund Solutions - UBS Solactive China Technology UCITS ETF A  ;A2QJ9G;LU2265794276;UBS (Luxembourg) S.A.;803,043;09.06.2025;7,7599;USD;0,2;100;5500;6231,53
+1003920840;03.06.2025;Kauf aus Sparplan;Amundi MSCI Emerging Ex China UCITS ETF Acc;LYX99G;LU2009202107;Lyxor International Asset Management S.A.S.;2,047;02.06.2025;27,695;USD;0,2;100;50;56,69
+1003920840;03.06.2025;Kauf aus Sparplan;UBS (Lux) Fund Solutions - UBS Solactive China Technology UCITS ETF A  ;A2QJ9G;LU2265794276;UBS (Luxembourg) S.A.;7,706;02.06.2025;7,357;USD;0,2;100;50;56,69
+1003920840;02.06.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;3,137;02.06.2025;47,815;EUR;0,2;100;150;150
+1003920840;03.06.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,882;02.06.2025;170;EUR;0;100;150;150
+1003920840;22.05.2025;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;8,898;21.05.2025;174,4;EUR;-;-;1551,75;1551,75
+1003920840;16.05.2025;Kauf aus Sparplan;Amundi MSCI Emerging Ex China UCITS ETF Acc;LYX99G;LU2009202107;Lyxor International Asset Management S.A.S.;0,998;15.05.2025;27,895;USD;0,2;100;25;27,84
+1003920840;15.05.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;12,141;15.05.2025;49,42;EUR;0,2;100;600;600
+1003920840;16.05.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;3,405;15.05.2025;176,2;EUR;0;100;600;600
+1003920840;05.05.2025;Kauf aus Sparplan;Amundi MSCI Emerging Ex China UCITS ETF Acc;LYX99G;LU2009202107;Lyxor International Asset Management S.A.S.;1,036;02.05.2025;27,165;USD;0,2;100;25;28,14
+1003920840;02.05.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;1,16;02.05.2025;43,085;EUR;0,2;100;50;50
+1003920840;05.05.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,609;02.05.2025;164,1;EUR;0;100;100;100
+1003920840;30.04.2025;Verkauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;723,502;29.04.2025;41,465;EUR;-;-;30000;30000
+1003920840;15.04.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;1,232;15.04.2025;40,6;EUR;0,2;100;50;50
+1003920840;16.04.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,328;15.04.2025;152,6;EUR;0;100;50;50
+1003920840;01.04.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;1,155;01.04.2025;43,305;EUR;0,2;100;50;50
+1003920840;02.04.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,297;01.04.2025;168,1;EUR;0;100;50;50
+1003920840;26.03.2025;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;4,443;25.03.2025;174,8;EUR;-;-;750;750
+1003920840;20.03.2025;Tausch (Kauf);Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;10,76;20.03.2025;46,47;EUR;0,2;100;500;500
+1003920840;20.03.2025;Tausch (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,999;19.03.2025;172,8;EUR;-;-;500;500
+1003920840;20.03.2025;Tausch (Kauf);Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;10,76;20.03.2025;46,47;EUR;0,2;100;500;500
+1003920840;20.03.2025;Tausch (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,999;19.03.2025;172,8;EUR;-;-;500;500
+1003920840;19.03.2025;Tausch (Kauf);Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;10,844;19.03.2025;46,11;EUR;0,2;100;500;500
+1003920840;19.03.2025;Tausch (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;3,054;18.03.2025;171,1;EUR;-;-;500;500
+1003920840;07.03.2025;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;110,482;06.03.2025;176,5;EUR;0;100;19500;19500
+1003920840;03.03.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;0,994;03.03.2025;50,29;EUR;0,2;100;50;50
+1003920840;04.03.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,274;03.03.2025;182,7;EUR;0;100;50;50
+1003920840;26.02.2025;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;11,325;25.02.2025;185,1;EUR;-;-;2062,83;2062,83
+1003920840;25.02.2025;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,07;24.02.2025;187;EUR;-;-;200;200
+1003920840;20.02.2025;Entgeltbelastung;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;0,036;20.02.2025;55,27;EUR;-;-;1,98;1,98
+1003920840;20.02.2025;Storno Kauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;0,458;17.02.2025;54,56;EUR;0,2;100;25;25
+1003920840;21.02.2025;Entgeltbelastung;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,01;20.02.2025;189,2;EUR;-;-;1,98;1,98
+1003920840;20.02.2025;Storno Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,133;17.02.2025;188;EUR;0;100;25;25
+1003920840;19.02.2025;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,057;18.02.2025;189,2;EUR;-;-;200;200
+1003920840;18.02.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,133;17.02.2025;188;EUR;0;100;25;25
+1003920840;17.02.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;0,458;17.02.2025;54,56;EUR;0,2;100;25;25
+1003920840;12.02.2025;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,072;11.02.2025;186,5;EUR;-;-;200;200
+1003920840;03.02.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;3,206;03.02.2025;51,47;EUR;0,2;100;165;165
+1003920840;04.02.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,895;03.02.2025;184,4;EUR;0;100;165;165
+1003920840;20.01.2025;Vorabpauschale Abrechnung Lastschrift;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;-;20.01.2025;-;EUR;-;-;-;-
+1003920840;20.01.2025;Vorabpauschale Abrechnung Lastschrift;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;-;20.01.2025;-;EUR;-;-;-;-
+1003920840;20.01.2025;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,814;17.01.2025;184,3;EUR;-;-;150;150
+1003920840;16.01.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,827;15.01.2025;181,3;EUR;0;100;150;150
+1003920840;15.01.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;2,804;15.01.2025;53,5;EUR;0,2;100;150;150
+1003920840;15.01.2025;Tausch Gesamt (Kauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,816;14.01.2025;178,3;EUR;0;100;145,5;145,5
+1003920840;14.01.2025;Tausch Gesamt (Verkauf);Amundi MSCI World V UCITS ETF Acc;LYX0YD;LU1781541179;Lyxor International Asset Management;7,797;13.01.2025;19,26;USD;-;-;145,5;150,17
+1003920840;06.01.2025;Kauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;1,771;06.01.2025;56,47;EUR;0,2;100;100;100
+1003920840;07.01.2025;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,819;06.01.2025;183,2;EUR;0;100;150;150
+1003920840;03.01.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;3,066;02.01.2025;53,82;EUR;0,2;100;165;165
+1003920840;03.01.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,911;02.01.2025;181,2;EUR;0;100;165;165
+1003920840;06.01.2025;Tausch Gesamt (Kauf);Amundi MSCI World V UCITS ETF Acc;LYX0YD;LU1781541179;Lyxor International Asset Management;2,6;03.01.2025;19,6;USD;0,2;100;49,47;50,96
+1003920840;03.01.2025;Tausch Gesamt (Verkauf);Fidelity Global Quality Income UCITS ETF EUR Hedged Thes.;A2DWQ2;IE00BYV1YH46;FIL Investment Management (Luxembourg) S.A.;6,284;02.01.2025;7,873;EUR;-;-;49,47;49,47
+1003920840;27.12.2024;Tausch (Verkauf);Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;1,857;27.12.2024;54,55;EUR;-;-;100;100
+1003920840;03.01.2025;Tausch (Kauf);Amundi MSCI World V UCITS ETF Acc;LYX0YD;LU1781541179;Lyxor International Asset Management;5,197;02.01.2025;19,688;USD;0,2;100;100;102,32
+1003920840;27.12.2024;Verkauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;2,229;27.12.2024;54,55;EUR;-;-;120;120
+1003920840;27.12.2024;Kauf;Fidelity Global Quality Income UCITS ETF EUR Hedged Thes.;A2DWQ2;IE00BYV1YH46;FIL Investment Management (Luxembourg) S.A.;6,284;27.12.2024;7,957;EUR;0,2;100;50;50
+1003920840;27.12.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,095;24.12.2024;182,6;EUR;0;100;200;200
+1003920840;20.12.2024;Verkauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;3,938;20.12.2024;50,81;EUR;-;-;200;200
+1003920840;18.12.2024;Verkauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;1,875;17.12.2024;53,94;EUR;-;-;100;100
+1003920840;17.12.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,82;16.12.2024;182,9;EUR;0;100;150;150
+1003920840;16.12.2024;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;2,821;16.12.2024;53,17;EUR;0,2;100;150;150
+1003920840;12.12.2024;Kauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;14,577;12.12.2024;51,45;EUR;0,2;100;750;750
+1003920840;13.12.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;4,078;12.12.2024;183,9;EUR;0;100;750;750
+1003920840;06.12.2024;Entgeltbelastung;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;0,038;05.12.2024;52,31;EUR;-;-;1,98;1,98
+1003920840;05.12.2024;Storno Kauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;2,989;02.12.2024;50,18;EUR;0,2;100;150;150
+1003920840;06.12.2024;Tausch (Kauf);Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;193,498;06.12.2024;51,68;EUR;0,2;100;10000;10000
+1003920840;06.12.2024;Tausch (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;58,404;05.12.2024;181;EUR;-;-;10000;10000
+1003920840;02.12.2024;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;2,989;02.12.2024;50,18;EUR;0,2;100;150;150
+1003920840;03.12.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,83;02.12.2024;180,8;EUR;0;100;150;150
+1003920840;18.11.2024;Kauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;6,016;18.11.2024;49,865;EUR;0,2;100;300;300
+1003920840;19.11.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,01;18.11.2024;174,1;EUR;0;100;350;350
+1003920840;15.11.2024;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,793;14.11.2024;176,3;EUR;-;-;300;300
+1003920840;18.11.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,288;15.11.2024;173,6;EUR;0;100;50;50
+1003920840;15.11.2024;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;0,972;15.11.2024;51,43;EUR;0,2;100;50;50
+1003920840;12.11.2024;Tausch (Kauf);Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;192,271;12.11.2024;52,01;EUR;0,2;100;10000;10000
+1003920840;12.11.2024;Tausch (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;60,395;11.11.2024;177,1;EUR;-;-;10000;10000
+1003920840;12.11.2024;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,084;11.11.2024;177,1;EUR;-;-;350;350
+1003920840;05.11.2024;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;3,168;04.11.2024;168,9;EUR;-;-;500;500
+1003920840;04.11.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,588;01.11.2024;170,1;EUR;0;100;100;100
+1003920840;30.10.2024;Kauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;412,655;30.10.2024;50,89;EUR;0,2;100;21000;21000
+1003920840;22.10.2024;Kauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;48,525;22.10.2024;51,52;EUR;0,2;100;2500;2500
+1003920840;23.10.2024;Kauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;19,535;21.10.2024;51,19;EUR;0,2;100;1000;1000
+1003920840;16.10.2024;Kauf;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;902,165;16.10.2024;49,88;EUR;0,2;100;45000;45000
+1003920840;17.10.2024;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;270,103;16.10.2024;171,5;EUR;-;-;45000;45000
+1003920840;15.10.2024;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;1,923;15.10.2024;52;EUR;0,2;100;100;100
+1003920840;11.10.2024;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,164;10.10.2024;169,7;EUR;-;-;27,86;27,86
+1003920840;11.10.2024;Tausch Gesamt (Kauf);Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;204,798;10.10.2024;50,71;EUR;0,2;100;10385,31;10385,31
+1003920840;09.10.2024;Tausch Gesamt (Verkauf);Amundi MSCI Semiconductor UCITS ETF Dis EUR;LYX045;LU2090063327;Lyxor International Asset Management;123,723;09.10.2024;83,94;EUR;-;-;10385,31;10385,31
+1003920840;07.10.2024;Storno Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;18,315;23.09.2024;163,8;EUR;0;100;3000;3000
+1003920840;09.10.2024;Entgeltbelastung;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,012;08.10.2024;168,5;EUR;-;-;1,98;1,98
+1003920840;04.10.2024;Kauf;Amundi MSCI Semiconductor UCITS ETF Dis EUR;LYX045;LU2090063327;Lyxor International Asset Management;123,092;04.10.2024;81,24;EUR;0,2;100;10000;10000
+1003920840;08.10.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;22,373;07.10.2024;168,9;EUR;0;100;3778,86;3778,86
+1003920840;03.10.2024;Kauf;Amundi MSCI Semiconductor UCITS ETF Dis EUR;LYX045;LU2090063327;Lyxor International Asset Management;0,631;03.10.2024;79,29;EUR;0,2;100;50;50
+1003920840;02.10.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,602;01.10.2024;166,2;EUR;0;100;100;100
+1003920840;24.09.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;18,315;23.09.2024;163,8;EUR;0;100;3000;3000
+1003920840;23.09.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;18,462;20.09.2024;162,5;EUR;0;100;3000;3000
+1003920840;23.09.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;18,462;20.09.2024;162,5;EUR;0;100;3000;3000
+1003920840;20.09.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;18,326;19.09.2024;163,7;EUR;0;100;3000;3000
+1003920840;18.09.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;18,564;17.09.2024;161,6;EUR;0;100;3000;3000
+1003920840;17.09.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,624;16.09.2024;160,2;EUR;0;100;100;100
+1003920840;12.09.2024;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,898;11.09.2024;158,1;EUR;-;-;300;300
+1003920840;03.09.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,305;02.09.2024;164,1;EUR;0;100;50;50
+1003920840;30.08.2024;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;6,064;29.08.2024;164,9;EUR;-;-;1000;1000
+1003920840;27.08.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;175,277;26.08.2024;162,6;EUR;0;100;28500;28500
+1003920840;23.08.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,851;22.08.2024;162,1;EUR;0;100;300;300
+1003920840;20.08.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,171;19.08.2024;162,3;EUR;0;100;190,12;190,12
+1003920840;16.08.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,165;15.08.2024;161,7;EUR;0;100;350;350
+1003920840;16.08.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,309;15.08.2024;161,7;EUR;0;100;50;50
+1003920840;30.07.2024;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;6,094;29.07.2024;164,1;EUR;-;-;1000;1000
+1003920840;23.07.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;30,157;22.07.2024;165,8;EUR;0;100;5000;5000
+1003920840;23.07.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;27,141;22.07.2024;165,8;EUR;0;100;4500;4500
+1003920840;19.07.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,2;18.07.2024;166,6;EUR;0;100;200;200
+1003920840;19.07.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;90,036;18.07.2024;166,6;EUR;0;100;15000;15000
+1003920840;17.07.2024;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;49,766;16.07.2024;170,8;EUR;0;100;8500;8500
+1003920840;08.04.2024;Entgeltbelastung;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,013;05.04.2024;155;EUR;-;-;1,98;1,98
+1003920840;05.04.2024;Storno Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,931;02.04.2024;155,8;EUR;0;100;145;145
+1003920840;03.04.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,931;02.04.2024;155,8;EUR;0;100;145;145
+1003920840;04.03.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,946;01.03.2024;153,2;EUR;0;100;145;145
+1003920840;21.02.2024;Entgeltbelastung;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,013;20.02.2024;149,3;EUR;-;-;1,98;1,98
+1003920840;20.02.2024;Storno Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,958;15.02.2024;151,3;EUR;0;100;145;145
+1003920840;16.02.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,958;15.02.2024;151,3;EUR;0;100;145;145
+1003920840;02.02.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,999;01.02.2024;145,1;EUR;0;100;145;145
+1003920840;16.01.2024;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;7,018;15.01.2024;142,5;EUR;-;-;1000;1000
+1003920840;15.01.2024;Vorabpauschale Abrechnung Lastschrift;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;-;15.01.2024;-;EUR;-;-;-;-
+1003920840;16.01.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,018;15.01.2024;142,5;EUR;0;100;145;145
+1003920840;03.01.2024;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,017;02.01.2024;142,6;EUR;0;100;145;145
+1003920840;15.12.2023;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;4,594;14.12.2023;141,5;EUR;0;100;650;650
+1003920840;18.12.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,015;15.12.2023;142,8;EUR;0;100;145;145
+1003920840;05.12.2023;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;7,278;04.12.2023;137,4;EUR;0;100;1000;1000
+1003920840;04.12.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,021;01.12.2023;137,1;EUR;0;100;140;140
+1003920840;16.11.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,014;15.11.2023;133,2;EUR;0;100;135;135
+1003920840;02.11.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,095;01.11.2023;123,3;EUR;0;100;135;135
+1003920840;24.10.2023;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,051;23.10.2023;123,7;EUR;0;100;130;130
+1003920840;17.10.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,051;16.10.2023;128,4;EUR;0;100;135;135
+1003920840;04.10.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,055;02.10.2023;128;EUR;0;100;135;135
+1003920840;18.09.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,037;15.09.2023;130,2;EUR;0;100;135;135
+1003920840;04.09.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,032;01.09.2023;130,8;EUR;0;100;135;135
+1003920840;17.08.2023;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;119,047;16.08.2023;125,2;EUR;-;-;14904,71;14904,71
+1003920840;16.08.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,071;15.08.2023;126;EUR;0;100;135;135
+1003920840;02.08.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,992;01.08.2023;131;EUR;0;100;130;130
+1003920840;25.07.2023;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;39,246;24.07.2023;127,4;EUR;0;100;5000;5000
+1003920840;18.07.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,024;17.07.2023;126,9;EUR;0;100;130;130
+1003920840;03.07.2023;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;39,494;30.06.2023;126,6;EUR;0;100;5000;5000
+1003920840;04.07.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,023;03.07.2023;127,1;EUR;0;100;130;130
+1003920840;16.06.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,621;15.06.2023;127,1;EUR;0;100;206;206
+1003920840;02.06.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,248;01.06.2023;123,8;EUR;0;100;154,5;154,5
+1003920840;16.05.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,764;15.05.2023;116,8;EUR;0;100;206;206
+1003920840;03.05.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,319;02.05.2023;113,7;EUR;0;100;150;150
+1003920840;18.04.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,706;17.04.2023;117,2;EUR;0;100;200;200
+1003920840;04.04.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,262;03.04.2023;118,9;EUR;0;100;150;150
+1003920840;16.03.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,756;15.03.2023;113,9;EUR;0;100;200;200
+1003920840;02.03.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,305;01.03.2023;114,9;EUR;0;100;150;150
+1003920840;16.02.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,675;15.02.2023;119,4;EUR;0;100;200;200
+1003920840;02.02.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,307;01.02.2023;114,8;EUR;0;100;150;150
+1003920840;17.01.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,354;16.01.2023;110,8;EUR;0;100;150;150
+1003920840;09.01.2023;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;3,293;06.01.2023;106,2;EUR;-;-;349,68;349,68
+1003920840;02.01.2023;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;3,925;30.12.2022;101,9;EUR;-;-;400;400
+1003920840;03.01.2023;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,448;02.01.2023;103,6;EUR;0;100;150;150
+1003920840;30.12.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;4,85;29.12.2022;103,1;EUR;0;100;500;500
+1003920840;29.12.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,47;28.12.2022;101,2;EUR;0;100;250;250
+1003920840;27.12.2022;Gesamtverkauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;8,373;23.12.2022;42,47;EUR;-;-;355,6;355,6
+1003920840;15.12.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,807;14.12.2022;110,7;EUR;0;100;200;200
+1003920840;16.12.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,18;15.12.2022;105,9;EUR;0;100;125;125
+1003920840;12.12.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;6,399;09.12.2022;109,4;EUR;0;100;700;700
+1003920840;02.12.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,115;01.12.2022;112,1;EUR;0;100;125;125
+1003920840;28.11.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;3,176;25.11.2022;110,2;EUR;-;-;350;350
+1003920840;22.11.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;9,166;21.11.2022;109,1;EUR;-;-;1000;1000
+1003920840;16.11.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,096;15.11.2022;114,1;EUR;0;100;125;125
+1003920840;15.11.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;89,365;14.11.2022;111,9;EUR;-;-;10000;10000
+1003920840;10.11.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;254,847;09.11.2022;105,3;EUR;-;-;26835,35;26835,35
+1003920840;08.11.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;28,736;07.11.2022;104,4;EUR;-;-;3000;3000
+1003920840;04.11.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;94,697;03.11.2022;105,6;EUR;-;-;10000;10000
+1003920840;01.11.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;183,655;31.10.2022;108,9;EUR;-;-;20000;20000
+1003920840;02.11.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,142;01.11.2022;109,5;EUR;0;100;125;125
+1003920840;31.10.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,308;28.10.2022;108,3;EUR;-;-;250;250
+1003920840;24.10.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;14,925;21.10.2022;107,2;EUR;0;100;1600;1600
+1003920840;18.10.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;4,704;17.10.2022;106,3;EUR;0;100;500;500
+1003920840;18.10.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,176;17.10.2022;106,3;EUR;0;100;125;125
+1003920840;05.10.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,143;04.10.2022;109,4;EUR;0;100;125;125
+1003920840;19.09.2022;Entgeltbelastung;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,018;16.09.2022;110,7;EUR;-;-;1,98;1,98
+1003920840;16.09.2022;Storno Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,146;12.09.2022;116,5;EUR;0;100;250;250
+1003920840;20.09.2022;Entgeltbelastung;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,113;19.09.2022;110,3;EUR;-;-;12,45;12,45
+1003920840;16.09.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,108;15.09.2022;112,8;EUR;0;100;125;125
+1003920840;13.09.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,146;12.09.2022;116,5;EUR;0;100;250;250
+1003920840;07.09.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,319;06.09.2022;113,7;EUR;0;100;150;150
+1003920840;06.09.2022;Tausch Gesamt (Kauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;43,963;05.09.2022;113,5;EUR;0;100;4989,77;4989,77
+1003920840;05.09.2022;Tausch Gesamt (Verkauf);Fidelity Funds - Global Equity Income Fd Y Acc (USD) ;A117ML;LU1084165213;FIL Investment Management (Luxembourg) S.A.;307,255;02.09.2022;16,2;USD;-;-;4989,77;4977,53
+1003920840;02.09.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;3,484;02.09.2022;114,8;EUR;0;100;400;400
+1003920840;02.09.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,111;01.09.2022;112,5;EUR;0;100;125;125
+1003920840;30.08.2022;Kauf aus VL-Sparplan;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;1,036;29.08.2022;48,28;EUR;5,25;100;50;50
+1003920840;26.08.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;8,446;26.08.2022;118,4;EUR;-;-;1000;1000
+1003920840;16.08.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,974;15.08.2022;123,2;EUR;0;100;120;120
+1003920840;02.08.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,856;01.08.2022;116,8;EUR;0;100;100;100
+1003920840;28.07.2022;Kauf aus VL-Sparplan;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;1,041;28.07.2022;48,04;EUR;5,25;100;50;50
+1003920840;22.07.2022;Kauf;Fidelity Funds - Global Equity Income Fd Y Acc (USD) ;A117ML;LU1084165213;FIL Investment Management (Luxembourg) S.A.;279,323;21.07.2022;16,26;USD;0;100;4500;4541,79
+1003920840;22.07.2022;Kauf;Fidelity Funds - Global Equity Income Fd Y Acc (USD) ;A117ML;LU1084165213;FIL Investment Management (Luxembourg) S.A.;27,932;21.07.2022;16,26;USD;0;100;450;454,18
+1003920840;21.07.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;43,898;21.07.2022;113,9;EUR;-;-;5000;5000
+1003920840;20.07.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,883;20.07.2022;113,3;EUR;0;100;100;100
+1003920840;20.07.2022;Tausch Gesamt (Kauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;276,504;20.07.2022;113,3;EUR;0;100;31327,85;31327,85
+1003920840;20.07.2022;Tausch Gesamt (Verkauf);Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;681,633;19.07.2022;45,96;EUR;-;-;31327,85;31327,85
+1003920840;18.07.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;257,353;15.07.2022;108,8;EUR;-;-;28000;28000
+1003920840;18.07.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,919;15.07.2022;108,8;EUR;0;100;100;100
+1003920840;04.07.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,967;01.07.2022;103,4;EUR;0;100;100;100
+1003920840;28.06.2022;Kauf aus VL-Sparplan;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;1,129;28.06.2022;44,27;EUR;5,25;100;50;50
+1003920840;17.06.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,954;15.06.2022;104,8;EUR;0;100;100;100
+1003920840;02.06.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,45;01.06.2022;111,1;EUR;0;100;50;50
+1003920840;27.05.2022;Kauf aus VL-Sparplan;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;1,08;27.05.2022;46,3;EUR;5,25;100;50;50
+1003920840;24.05.2022;Verkauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;22,449;23.05.2022;44,78;EUR;-;-;1005,27;1005,27
+1003920840;17.05.2022;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,911;16.05.2022;109,8;EUR;0;100;100;100
+1003920840;02.05.2022;Kauf aus VL-Sparplan;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;1,046;29.04.2022;47,79;EUR;5,25;100;50;50
+1003920840;28.03.2022;Kauf aus VL-Sparplan;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;1,001;28.03.2022;49,93;EUR;5,25;100;50;50
+1003920840;24.03.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,838;24.03.2022;119,4;EUR;0;100;100;100
+1003920840;24.03.2022;Tausch Gesamt (Kauf);Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;704,082;24.03.2022;49,85;EUR;5,25;100;35098,47;35098,47
+1003920840;23.03.2022;Tausch Gesamt (Verkauf);Fidelity Funds - World Fund A (EUR);986378;LU0069449576;FIL Investment Management (Luxembourg) S.A.;1004,823;23.03.2022;34,93;EUR;-;-;35098,47;35098,47
+1003920840;01.03.2022;Kauf aus VL-Sparplan;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;1,037;28.02.2022;48,22;EUR;5,25;100;50;50
+1003920840;03.02.2022;Tausch (Kauf);Fidelity Funds - World Fund A (EUR);986378;LU0069449576;FIL Investment Management (Luxembourg) S.A.;1004,823;03.02.2022;34,83;EUR;5,25;100;35000;35000
+1003920840;02.02.2022;Tausch (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;290,714;02.02.2022;120,4;EUR;-;-;35000;35000
+1003920840;02.02.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,06;01.02.2022;120,4;EUR;0;50;250;250
+1003920840;31.01.2022;Kauf aus VL-Sparplan;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;1,003;28.01.2022;49,8655;EUR;5,25;50;50;50
+1003920840;20.01.2022;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;11,582;19.01.2022;120,7;EUR;0;50;1400;1400
+1003920840;07.01.2022;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,064;07.01.2022;122,1;EUR;-;-;250;250
+1003920840;27.12.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;8,048;23.12.2021;124;EUR;0;50;1000;1000
+1003920840;23.12.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;9,74;22.12.2021;123;EUR;0;50;1200;1200
+1003920840;20.12.2021;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,663;17.12.2021;121,5;EUR;-;-;200;200
+1003920840;14.12.2021;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,648;13.12.2021;122,6;EUR;-;-;200;200
+1003920840;02.12.2021;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,649;01.12.2021;122,5;EUR;-;-;200;200
+1003920840;18.11.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;39,73;17.11.2021;125,8;EUR;0;50;5000;5000
+1003920840;11.11.2021;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,636;10.11.2021;123,5;EUR;-;-;200;200
+1003920840;29.10.2021;Entgeltbelastung;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,024;28.10.2021;118,9;EUR;-;-;2,9;2,9
+1003920840;28.10.2021;Storno Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;8,366;22.10.2021;119,3;EUR;0;50;1000;1000
+1003920840;25.10.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;8,366;22.10.2021;119,3;EUR;0;50;1000;1000
+1003920840;22.10.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;15,059;21.10.2021;119,4;EUR;0;50;1800;1800
+1003920840;15.10.2021;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;8,491;14.10.2021;118;EUR;-;-;1000;1000
+1003920840;30.09.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;12,936;29.09.2021;115,8;EUR;0;50;1500;1500
+1003920840;21.09.2021;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,772;20.09.2021;114;EUR;-;-;200;200
+1003920840;20.09.2021;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,735;17.09.2021;116,4;EUR;-;-;200;200
+1003920840;13.09.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;28,407;13.09.2021;116,1;EUR;0;50;3300;3300
+1003920840;06.09.2021;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,724;03.09.2021;117,2;EUR;-;-;200;200
+1003920840;06.09.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;21,314;03.09.2021;117,2;EUR;0;50;2500;2500
+1003920840;26.08.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;34,259;26.08.2021;116,7;EUR;0;50;4000;4000
+1003920840;19.08.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;65,428;18.08.2021;114,6;EUR;0;50;7500;7500
+1003920840;11.08.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;108,302;11.08.2021;115,4;EUR;0;50;12500;12500
+1003920840;04.08.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;174,047;04.08.2021;114,9;EUR;0;50;20000;20000
+1003920840;29.07.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;2,275;29.07.2021;114,3;EUR;0;50;262;262
+1003920840;29.07.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;289,202;28.07.2021;114,1;EUR;0;50;33000;33000
+1003920840;22.07.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;4,388;21.07.2021;113,5;EUR;0;50;500;500
+1003920840;22.07.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;30,81;21.07.2021;113,5;EUR;0;50;3498,99;3498,99
+1003920840;16.07.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;8,739;15.07.2021;114,2;EUR;0;50;1000;1000
+1003920840;29.06.2021;Tausch Gesamt (Kauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;355,936;29.06.2021;113,5;EUR;0;90;40400,76;40400,76
+1003920840;29.06.2021;Tausch Gesamt (Verkauf);Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;644,178;28.06.2021;75,11;USD;-;-;40400,76;48381,81
+1003920840;22.06.2021;Tausch (Kauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;89,991;21.06.2021;111,1;EUR;0;90;10000;10000
+1003920840;21.06.2021;Tausch (Verkauf);Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;163,469;18.06.2021;73,16;USD;-;-;10000;11957,01
+1003920840;16.06.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;6,769;15.06.2021;110,5;EUR;0;50;750;750
+1003920840;31.05.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;41,494;28.05.2021;108,4;EUR;0;90;4500;4500
+1003920840;31.05.2021;Verkauf;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;73,18;28.05.2021;75,46;USD;-;-;4500;5519,75
+1003920840;26.05.2021;Kauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;4,628;26.05.2021;107,6;EUR;0;50;500;500
+1003920840;20.05.2021;Kauf;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;23,848;19.05.2021;76,1785;USD;5,25;50;1500;1819,15
+1003920840;18.05.2021;Kauf;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;95,772;17.05.2021;75,9836;USD;5,25;50;6000;7279,53
+1003920840;26.04.2021;Kauf;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;608,562;23.04.2021;79,0315;USD;5,25;50;40000;48097,96
+1003920840;22.04.2021;Kauf;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;152,645;21.04.2021;78,3645;USD;5,25;50;10000;11964,32
+1003920840;01.01.2020;Gesamtverkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;3,483;30.12.2019;22,88;EUR;-;-;77,69;77,69
+1003920840;20.12.2019;Gesamtverkauf;Fidelity Funds - Global Dividend Fund A QINCOME (EUR) ;A1JSY0;LU0731782404;FIL Investment Management (Luxembourg) S.A.;0,62;19.12.2019;19,49;EUR;-;-;10,08;10,08
+1003920840;04.12.2019;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;6,947;03.12.2019;21,88;EUR;-;-;150;150
+1003920840;26.11.2019;Verkauf;Fidelity Funds - Global Dividend Fund A QINCOME (EUR) ;A1JSY0;LU0731782404;FIL Investment Management (Luxembourg) S.A.;10,526;25.11.2019;19,19;EUR;-;-;200;200
+1003920840;19.11.2019;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;4,306;18.11.2019;22,7622;EUR;5,25;50;100;100
+1003920840;15.11.2019;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;4,321;14.11.2019;22,6801;EUR;5,25;50;100;100
+1003920840;13.11.2019;Kauf;Fidelity Funds - Global Dividend Fund A QINCOME (EUR) ;A1JSY0;LU0731782404;FIL Investment Management (Luxembourg) S.A.;5,12;12.11.2019;19,14;EUR;5,25;100;100;100
+1003920840;13.11.2019;Kauf;Fidelity Funds - Global Dividend Fund A QINCOME (EUR) ;A1JSY0;LU0731782404;FIL Investment Management (Luxembourg) S.A.;5,12;12.11.2019;19,14;EUR;5,25;100;100;100
+1003920840;12.11.2019;Ertrag Wiederanlage;Fidelity Funds - Global Dividend Fund A QINCOME (EUR) ;A1JSY0;LU0731782404;FIL Investment Management (Luxembourg) S.A.;0,034;11.11.2019;19,09;EUR;5,25;100;0,64;0,64
+1003920840;08.11.2019;Ertrag;Fidelity Funds - Global Dividend Fund A QINCOME (EUR) ;A1JSY0;LU0731782404;FIL Investment Management (Luxembourg) S.A.;-;08.11.2019;-;EUR;-;-;0,64;0,64
+1003920840;06.11.2019;Verkauf;Fidelity Funds - Global Dividend Fund A QINCOME (EUR) ;A1JSY0;LU0731782404;FIL Investment Management (Luxembourg) S.A.;4,3;06.11.2019;19,07;EUR;-;-;80;80
+1003920840;01.11.2019;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;7,079;31.10.2019;21,47;EUR;-;-;150;150
+1003920840;25.10.2019;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;4,417;25.10.2019;22,1875;EUR;5,25;50;100;100
+1003920840;25.10.2019;Kauf;Fidelity Funds - Global Dividend Fund A QINCOME (EUR) ;A1JSY0;LU0731782404;FIL Investment Management (Luxembourg) S.A.;5,172;24.10.2019;18,95;EUR;5,25;100;100;100
+1003920840;22.10.2019;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;4,465;22.10.2019;21,9515;EUR;5,25;50;100;100
+1003920840;15.03.2019;Gesamtverkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;24,753;14.03.2019;8,197;EUR;-;-;200,9;200,9
+1003920840;12.03.2019;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;10,647;12.03.2019;8,215;EUR;-;-;85,47;85,47
+1003920840;08.03.2019;Kauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;11,842;08.03.2019;8,2757;EUR;5,25;50;100;100
+1003920840;04.03.2019;Kauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;11,717;04.03.2019;8,3639;EUR;5,25;50;100;100
+1003920840;13.02.2019;Kauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;11,841;13.02.2019;8,2767;EUR;5,25;50;100;100
+1003920840;22.10.2018;Gesamtverkauf;Fidelity Funds - Pacific Fund A Acc (EUR) ;A0Q7NX;LU0368678339;FIL Investment Management (Luxembourg) S.A.;4;22.10.2018;20,24;EUR;-;-;78,96;78,96
+1003920840;17.10.2018;Kauf;Fidelity Funds - Pacific Fund A Acc (EUR) ;A0Q7NX;LU0368678339;FIL Investment Management (Luxembourg) S.A.;4;16.10.2018;20,5763;EUR;5,25;50;84,31;84,31
+1003920840;17.07.2018;Gesamtverkauf;Fidelity Funds - Pacific Fund A Acc (EUR) ;A0Q7NX;LU0368678339;FIL Investment Management (Luxembourg) S.A.;4,29;17.07.2018;22,09;EUR;-;-;92,77;92,77
+1003920840;06.07.2018;Kauf;Fidelity Funds - Pacific Fund A Acc (EUR) ;A0Q7NX;LU0368678339;FIL Investment Management (Luxembourg) S.A.;2,156;06.07.2018;22,2696;EUR;5,25;50;50;50
+1003920840;04.07.2018;Kauf;Fidelity Funds - Pacific Fund A Acc (EUR) ;A0Q7NX;LU0368678339;FIL Investment Management (Luxembourg) S.A.;2,134;04.07.2018;22,4954;EUR;5,25;50;50;50
+1003920840;08.06.2018;Storno Kauf;Fidelity Funds - Pacific Fund A Acc (EUR) ;A0Q7NX;LU0368678339;FIL Investment Management (Luxembourg) S.A.;1,974;05.06.2018;24,3119;EUR;-;-;50;50
+1003920840;05.06.2018;Kauf;Fidelity Funds - Pacific Fund A Acc (EUR) ;A0Q7NX;LU0368678339;FIL Investment Management (Luxembourg) S.A.;1,974;05.06.2018;24,3119;EUR;5,25;50;50;50
+1003920840;14.11.2016;Gesamtverkauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;1897,423;11.11.2016;15,94;EUR;-;-;29284,52;29284,52
+1003920840;09.11.2016;Verkauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;1219,484;09.11.2016;15,91;EUR;-;-;19400;19400
+1003920840;03.11.2016;Gesamtverkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;367,329;03.11.2016;16,04;EUR;-;-;5889,96;5889,96
+1003920840;04.11.2016;Gesamtverkauf;Fidelity Funds - Pacific Fund A (USD);973285;LU0049112450;FIL Investment Management (Luxembourg) S.A.;306,88;03.11.2016;30,78;USD;-;-;8460,26;9443,54
+1003920840;31.10.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;909,763;31.10.2016;16,49;EUR;-;-;15000;15000
+1003920840;28.10.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;301,689;28.10.2016;16,58;EUR;-;-;5000;5000
+1003920840;26.10.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;542,59;26.10.2016;16,6;EUR;-;-;9005;9005
+1003920840;28.09.2016;Kauf;Fidelity Funds - Pacific Fund A (USD);973285;LU0049112450;FIL Investment Management (Luxembourg) S.A.;306,88;27.09.2016;32,645;USD;5,25;50;9000;10020,33
+1003920840;26.08.2016;Ertrag Auszahlung;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;-;26.08.2016;-;EUR;-;-;0;0
+1003920840;26.08.2016;Ertrag Auszahlung;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;-;26.08.2016;-;EUR;-;-;0;0
+1003920840;25.08.2016;Verkauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;98,17;24.08.2016;15,3;EUR;-;-;1500;1500
+1003920840;11.08.2016;Verkauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;62,59;11.08.2016;15,21;EUR;-;-;950;950
+1003920840;25.07.2016;Verkauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;133,823;25.07.2016;14,96;EUR;-;-;2000;2000
+1003920840;18.07.2016;Verkauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;68,024;18.07.2016;14,73;EUR;-;-;1000;1000
+1003920840;11.07.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;62,742;08.07.2016;15,97;EUR;-;-;1000;1000
+1003920840;05.07.2016;Verkauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;369,935;04.07.2016;13,97;EUR;-;-;5166;5166
+1003920840;09.05.2016;Kauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;765,901;06.05.2016;13,0539;EUR;5,25;50;10000;10000
+1003920840;27.04.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;1245,454;27.04.2016;16,06;EUR;-;-;20000;20000
+1003920840;27.04.2016;Kauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;360,752;27.04.2016;13,8544;EUR;5,25;50;5000;5000
+1003920840;27.04.2016;Kauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;1473,594;27.04.2016;13,5709;EUR;5,25;90;20000;20000
+1003920840;25.04.2016;Kauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;89,549;25.04.2016;13,9365;EUR;5,25;50;1250;1250
+1003920840;22.04.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;624,367;22.04.2016;16,17;EUR;-;-;10000;10000
+1003920840;25.04.2016;Kauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;725,971;22.04.2016;13,7719;EUR;5,25;90;10000;10000
+1003920840;22.04.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;311,8;21.04.2016;16,2;EUR;-;-;5000;5000
+1003920840;22.04.2016;Kauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;362,647;21.04.2016;13,782;EUR;5,25;90;5000;5000
+1003920840;21.04.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;93,733;20.04.2016;16,17;EUR;-;-;1500;1500
+1003920840;19.04.2016;Kauf;Fidelity Funds - Global Technology Fund A (EUR);921800;LU0099574567;FIL Investment Management (Luxembourg) S.A.;71,035;18.04.2016;14,0494;EUR;5,25;50;1000;1000
+1003920840;19.04.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;2641,66;18.04.2016;16;EUR;-;-;42000;42000
+1003920840;18.04.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;313,408;15.04.2016;15,96;EUR;-;-;5000;5000
+1003920840;11.04.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;193,677;11.04.2016;15,5;EUR;-;-;3000;3000
+1003920840;08.04.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;646,124;08.04.2016;15,48;EUR;-;-;10000;10000
+1003920840;08.04.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;646,124;08.04.2016;15,48;EUR;-;-;10000;10000
+1003920840;04.04.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;64,148;04.04.2016;15,62;EUR;-;-;1000;1000
+1003920840;29.02.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;972,663;29.02.2016;15,65;EUR;-;-;14992,95;14992,95
+1003920840;17.02.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;169,397;16.02.2016;14,77;EUR;-;-;2500;2500
+1003920840;08.02.2016;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;205,757;08.02.2016;14,59;EUR;-;-;3000;3000
+1003920840;22.12.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;160,14;21.12.2015;16,36;EUR;-;-;2500;2500
+1003920840;11.12.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;632,526;10.12.2015;16,62;EUR;-;-;10000;10000
+1003920840;10.12.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;1592,746;09.12.2015;16,55;EUR;-;-;25000;25000
+1003920840;08.12.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;626,084;07.12.2015;16,96;EUR;-;-;10000;10000
+1003920840;08.12.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;72,139;07.12.2015;16,96;EUR;-;-;1150,18;1150,18
+1003920840;07.12.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;314,159;04.12.2015;16,9;EUR;-;-;5000;5000
+1003920840;03.12.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;304,172;02.12.2015;17,61;EUR;-;-;5000;5000
+1003920840;02.12.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;304,717;01.12.2015;17,57;EUR;-;-;5000;5000
+1003920840;04.11.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;247,979;03.11.2015;17,21;EUR;-;-;4003;4003
+1003920840;24.09.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;33,107;23.09.2015;15,85;EUR;-;-;500;500
+1003920840;23.09.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;33,107;22.09.2015;15,85;EUR;-;-;500;500
+1003920840;18.09.2015;Entgeltbelastung;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;0,196;17.09.2015;16,09;EUR;-;-;3;3
+1003920840;17.09.2015;Storno Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;10,425;15.09.2015;16,3071;EUR;-;-;170;170
+1003920840;18.09.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;32,725;17.09.2015;16,09;EUR;-;-;500;500
+1003920840;16.09.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;617,828;15.09.2015;15,89;EUR;-;-;9500;9500
+1003920840;22.09.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;65,417;21.09.2015;16,07;EUR;-;-;1000;1000
+1003920840;16.09.2015;Kauf aus Sparplan;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;10,425;15.09.2015;16,3071;EUR;5,25;50;170;170
+1003920840;08.09.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;67,511;07.09.2015;15,82;EUR;-;-;1066,02;1066,02
+1003920840;21.08.2015;Gesamtverkauf;Invesco Pan European Equity Income Fund A thes.;A0LGX0;LU0267986122;INVESCO GT Management S.A.;1279,388;20.08.2015;15,55;EUR;-;-;19892,48;19892,48
+1003920840;21.08.2015;Verkauf;Invesco Pan European Equity Income Fund A thes.;A0LGX0;LU0267986122;INVESCO GT Management S.A.;289,518;20.08.2015;15,55;EUR;-;-;4500;4500
+1003920840;21.08.2015;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;1211,969;20.08.2015;16,8681;EUR;5,25;90;20445,61;20445,61
+1003920840;19.08.2015;Ertrag Auszahlung;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;-;19.08.2015;-;EUR;-;-;0;0
+1003920840;18.08.2015;Kauf aus Sparplan;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;9,564;17.08.2015;17,7747;EUR;5,25;50;170;170
+1003920840;16.07.2015;Kauf aus Sparplan;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;9,354;15.07.2015;18,1749;EUR;5,25;50;170;170
+1003920840;16.06.2015;Kauf aus Sparplan;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;5,685;15.06.2015;17,5899;EUR;5,25;50;100;100
+1003920840;05.06.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;122,981;03.06.2015;17,49;EUR;-;-;2000;2000
+1003920840;19.05.2015;Kauf;Invesco Pan European Equity Income Fund A thes.;A0LGX0;LU0267986122;INVESCO GT Management S.A.;1568,906;18.05.2015;15,9334;EUR;5,26;90;25000;25000
+1003920840;19.05.2015;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;1531,359;18.05.2015;17,56;EUR;-;-;25000;25000
+1003920840;18.05.2015;Kauf aus Sparplan;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;5,597;15.05.2015;17,867;EUR;5,25;50;100;100
+1003920840;07.05.2015;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;566,411;06.05.2015;17,6515;EUR;5,25;50;10000;10000
+1003920840;17.04.2015;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;497,968;16.04.2015;18,8727;EUR;5,25;50;9400;9400
+1003920840;11.03.2015;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;164,582;10.03.2015;18,2159;EUR;5,25;50;3000;3000
+1003920840;10.02.2015;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;868,87;09.02.2015;17,2615;EUR;5,25;50;15000;15000
+1003920840;27.01.2015;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;57,305;26.01.2015;17,4155;EUR;5,25;50;1000;1000
+1003920840;09.12.2014;Gesamtverkauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;5772,541;08.12.2014;16,41;EUR;-;-;94133,2;94133,2
+1003920840;09.12.2014;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;5952,773;08.12.2014;15,6316;EUR;5,25;90;93053,36;93053,36
+1003920840;14.10.2014;Verkauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;60;13.10.2014;14,2;EUR;-;-;850;850
+1003920840;29.08.2014;Ertrag Auszahlung;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;-;29.08.2014;-;EUR;-;-;0;0
+1003920840;29.08.2014;Ertrag Auszahlung;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;-;29.08.2014;-;EUR;-;-;0;0
+1003920840;12.06.2014;Verkauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;149,106;11.06.2014;16,78;EUR;-;-;2500;2500
+1003920840;30.04.2014;Verkauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;37,268;29.04.2014;13,47;EUR;-;-;500;500
+1003920840;23.04.2014;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;2628,069;22.04.2014;13,601;EUR;5,25;90;35746,36;35746,36
+1003920840;23.04.2014;Gesamtverkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;7004,969;22.04.2014;5,15;EUR;-;-;36073,59;36073,59
+1003920840;11.04.2014;Kauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;307,097;10.04.2014;16,275;EUR;5,25;90;5000;5000
+1003920840;11.04.2014;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;98,277;10.04.2014;5,108;EUR;-;-;500;500
+1003920840;11.04.2014;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;979,248;10.04.2014;5,108;EUR;-;-;5000;5000
+1003920840;03.04.2014;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;146,445;02.04.2014;5,135;EUR;-;-;750;750
+1003920840;25.03.2014;Kauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;316,479;24.03.2014;15,7925;EUR;5,25;90;5000;5000
+1003920840;25.03.2014;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;1014,604;24.03.2014;4,93;EUR;-;-;5000;5000
+1003920840;14.03.2014;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;100,319;13.03.2014;5,004;EUR;-;-;500;500
+1003920840;06.03.2014;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;97,192;05.03.2014;5,165;EUR;-;-;500;500
+1003920840;28.02.2014;Kauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;301,693;27.02.2014;16,5665;EUR;5,25;90;5000;5000
+1003920840;28.02.2014;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;972,962;27.02.2014;5,141;EUR;-;-;5000;5000
+1003920840;19.02.2014;Kauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;26,313;18.02.2014;17,0255;EUR;5,25;50;450;450
+1003920840;11.02.2014;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;101,332;10.02.2014;4,954;EUR;-;-;500;500
+1003920840;11.02.2014;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;101,332;10.02.2014;4,954;EUR;-;-;500;500
+1003920840;02.01.2014;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;389,645;30.12.2013;5,138;EUR;-;-;2000;2000
+1003920840;19.12.2013;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;395,574;18.12.2013;5,061;EUR;-;-;2000;2000
+1003920840;19.11.2013;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;95,147;18.11.2013;5,276;EUR;-;-;500;500
+1003920840;19.11.2013;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;568,991;18.11.2013;5,276;EUR;-;-;3000;3000
+1003920840;18.11.2013;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;163,877;15.11.2013;5,199;EUR;-;-;850;850
+1003920840;05.11.2013;Kauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;4380,121;04.11.2013;15,3502;EUR;5,25;90;67237,73;67237,73
+1003920840;05.11.2013;Gesamtverkauf;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;1864,57;04.11.2013;47,27;USD;-;-;64922,52;88135,5
+1003920840;04.11.2013;Gesamtverkauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;343,922;01.11.2013;13,01;EUR;-;-;4472,43;4472,43
+1003920840;04.11.2013;Kauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;286,66;01.11.2013;15,2899;EUR;5,25;90;4385,01;4385,01
+1003920840;29.10.2013;Kauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;142,582;28.10.2013;15,1692;EUR;5,25;90;2164,85;2164,85
+1003920840;29.10.2013;Gesamtverkauf;FF - Europe Equity ESG Fund A-ACC-EUR ;A0J22H;LU0251128657;FIL Investment Management (Luxembourg) S.A.;176,147;28.10.2013;12,18;EUR;-;-;2143,47;2143,47
+1003920840;22.10.2013;Kauf;FF - Europe Equity ESG Fund A-ACC-EUR ;A0J22H;LU0251128657;FIL Investment Management (Luxembourg) S.A.;87,267;21.10.2013;12,3445;EUR;5,25;90;1079,27;1079,27
+1003920840;22.10.2013;Gesamtverkauf;FF - Europe Equity ESG Fund A-EUR ;988525;LU0088814487;FIL Investment Management (Luxembourg) S.A.;58,276;21.10.2013;18,68;EUR;-;-;1086,6;1086,6
+1003920840;01.10.2013;Gesamtverkauf;Fidelity Funds SICAV - Japan Value Fund A EUR hed o.N.;A1H8N8;LU0611489658;FIL Investment Management (Luxembourg) S.A.;147,916;30.09.2013;13,18;EUR;-;-;1947,53;1947,53
+1003920840;12.09.2013;Ertrag Auszahlung;Fidelity Funds - EMEA Fund A Acc (EUR);A0MWZJ;LU0303816705;FIL Investment Management (Luxembourg) S.A.;-;12.09.2013;-;EUR;-;-;0;0
+1003920840;10.09.2013;Gesamtverkauf;Baring German Growth Trust (EUR);940132;GB0008192063;Baring International Fund Managers (Ireland) Ltd.;91,016;09.09.2013;6,053;EUR;-;-;548,92;548,92
+1003920840;02.09.2013;Ertrag Auszahlung;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;-;02.09.2013;-;EUR;-;-;0;0
+1003920840;02.09.2013;Ertrag Auszahlung;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;-;02.09.2013;-;EUR;-;-;0;0
+1003920840;02.09.2013;Ertrag Auszahlung;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;-;02.09.2013;-;EUR;-;-;0;0
+1003920840;02.09.2013;Ertrag Auszahlung;Fidelity Funds - Emerging Market Debt Fund A Acc (EUR);A0H0V8;LU0238205289;FIL Investment Management (Luxembourg) S.A.;-;02.09.2013;-;EUR;-;-;0;0
+1003920840;26.08.2013;Gesamtverkauf;AGIF - Allianz Thailand Equity - A - EUR ;A0Q1LH;LU0348798009;Allianz Global Investors Luxembourg S.A.;1,071;23.08.2013;434,27;EUR;-;-;463,1;463,1
+1003920840;23.08.2013;Verkauf;Baring German Growth Trust (EUR);940132;GB0008192063;Baring International Fund Managers (Ireland) Ltd.;74,076;22.08.2013;6,108;EUR;-;-;450;450
+1003920840;23.08.2013;Gesamtverkauf;Fidelity Funds - European High Yield Fund A (EUR);939979;LU0110060430;FIL Investment Management (Luxembourg) S.A.;50,471;22.08.2013;9,759;EUR;-;-;490,55;490,55
+1003920840;23.08.2013;Gesamtverkauf;Fidelity Funds - EMEA Fund A Acc (EUR);A0MWZJ;LU0303816705;FIL Investment Management (Luxembourg) S.A.;36,856;22.08.2013;14,22;EUR;-;-;522,09;522,09
+1003920840;23.08.2013;Verkauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;120,643;22.08.2013;12,45;EUR;-;-;1500;1500
+1003920840;23.08.2013;Gesamtverkauf;Fidelity Funds - Asia Pacific Property Fund A (EUR);A0MJQ6;LU0270844607;FIL Investment Management (Luxembourg) S.A.;48,035;22.08.2013;8,498;EUR;-;-;406,2;406,2
+1003920840;23.08.2013;Ertrag Wiederanlage;Fidelity Funds SICAV - Japan Value Fund A EUR hed o.N.;A1H8N8;LU0611489658;FIL Investment Management (Luxembourg) S.A.;0,576;22.08.2013;12,44;EUR;5,25;100;7,17;7,17
+1003920840;21.08.2013;Ertrag;Fidelity Funds SICAV - Japan Value Fund A EUR hed o.N.;A1H8N8;LU0611489658;FIL Investment Management (Luxembourg) S.A.;-;21.08.2013;-;EUR;-;-;8,27;8,27
+1003920840;23.08.2013;Ertrag Wiederanlage;Fidelity Funds - Asia Pacific Property Fund A (EUR);A0MJQ6;LU0270844607;FIL Investment Management (Luxembourg) S.A.;0,192;22.08.2013;8,498;EUR;5,25;100;1,63;1,63
+1003920840;21.08.2013;Ertrag;Fidelity Funds - Asia Pacific Property Fund A (EUR);A0MJQ6;LU0270844607;FIL Investment Management (Luxembourg) S.A.;-;21.08.2013;-;EUR;-;-;1,74;1,74
+1003920840;20.08.2013;Ertrag Wiederanlage;FF - Europe Equity ESG Fund A-EUR ;988525;LU0088814487;FIL Investment Management (Luxembourg) S.A.;0,723;19.08.2013;17,97;EUR;5,25;100;13;13
+1003920840;16.08.2013;Ertrag;FF - Europe Equity ESG Fund A-EUR ;988525;LU0088814487;FIL Investment Management (Luxembourg) S.A.;-;16.08.2013;-;EUR;-;-;15,57;15,57
+1003920840;20.08.2013;Ertrag Wiederanlage;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;25,183;19.08.2013;4,926;EUR;5,25;100;124,05;124,05
+1003920840;16.08.2013;Ertrag;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;-;16.08.2013;-;EUR;-;-;206,26;206,26
+1003920840;20.08.2013;Ertrag Wiederanlage;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;17,932;19.08.2013;45,97;USD;5,25;100;621,49;824,35
+1003920840;16.08.2013;Ertrag;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;-;16.08.2013;-;USD;-;-;779,69;1036,75
+1003920840;20.08.2013;Ertrag Wiederanlage;Fidelity Funds - European High Yield Fund A (EUR);939979;LU0110060430;FIL Investment Management (Luxembourg) S.A.;1,865;19.08.2013;9,798;EUR;3,5;100;18,27;18,27
+1003920840;16.08.2013;Ertrag;Fidelity Funds - European High Yield Fund A (EUR);939979;LU0110060430;FIL Investment Management (Luxembourg) S.A.;-;16.08.2013;-;EUR;-;-;25,81;25,81
+1003920840;08.08.2013;Verkauf;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;393,529;07.08.2013;46,86;USD;-;-;13500;18135,91
+1003920840;08.08.2013;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;1032,881;07.08.2013;13,0683;EUR;5,25;90;13500;13500
+1003920840;06.08.2013;Verkauf;AGIF - Allianz Thailand Equity - A - EUR ;A0Q1LH;LU0348798009;Allianz Global Investors Luxembourg S.A.;0,66;05.08.2013;469,77;EUR;-;-;308;308
+1003920840;16.07.2013;Gesamtverkauf;Fidelity Funds - Emerging Market Debt Fund A Acc (EUR);A0H0V8;LU0238205289;FIL Investment Management (Luxembourg) S.A.;11,994;15.07.2013;15,5;EUR;-;-;183,91;183,91
+1003920840;12.07.2013;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;285,356;11.07.2013;13,4849;EUR;5,25;50;3850;3850
+1003920840;10.07.2013;Kauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;408,115;09.07.2013;13,4717;EUR;3,5;50;5500;5500
+1003920840;05.07.2013;Kauf;FF - Europe Equity ESG Fund A-EUR ;988525;LU0088814487;FIL Investment Management (Luxembourg) S.A.;57,553;04.07.2013;17,3406;EUR;5,25;90;1000;1000
+1003920840;05.07.2013;Verkauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;73,514;04.07.2013;13,63;EUR;-;-;1000;1000
+1003920840;05.07.2013;Verkauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;73,514;04.07.2013;13,63;EUR;-;-;1000;1000
+1003920840;05.07.2013;Kauf;FF - Europe Equity ESG Fund A-ACC-EUR ;A0J22H;LU0251128657;FIL Investment Management (Luxembourg) S.A.;88,88;04.07.2013;11,2286;EUR;5,25;90;1000;1000
+1003920840;11.06.2013;Ertrag Wiederanlage;Fidelity Funds - Asia Pacific Property Fund A (EUR);A0MJQ6;LU0270844607;FIL Investment Management (Luxembourg) S.A.;0,025;10.06.2013;9,061;EUR;5,25;100;0,23;0,23
+1003920840;07.06.2013;Ertrag;Fidelity Funds - Asia Pacific Property Fund A (EUR);A0MJQ6;LU0270844607;FIL Investment Management (Luxembourg) S.A.;-;07.06.2013;-;EUR;-;-;0,23;0,23
+1003920840;06.06.2013;Ertrag Auszahlung;Fidelity Funds - Asia Pacific Property Fund A (EUR);A0MJQ6;LU0270844607;FIL Investment Management (Luxembourg) S.A.;-;06.06.2013;-;EUR;-;-;0;0
+1003920840;04.06.2013;Kauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;360,086;03.06.2013;13,88;EUR;5,25;100;5000;5000
+1003920840;03.06.2013;Kauf;Baring German Growth Trust (EUR);940132;GB0008192063;Baring International Fund Managers (Ireland) Ltd.;165,092;31.05.2013;6,0451;EUR;5;90;1000;1000
+1003920840;03.06.2013;Verkauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;74,371;31.05.2013;13,56;EUR;-;-;1000;1000
+1003920840;27.05.2013;Verkauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;1379,957;24.05.2013;13,77;EUR;-;-;19000;19000
+1003920840;27.05.2013;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;1436,077;24.05.2013;13,2291;EUR;5,25;90;19000;19000
+1003920840;14.05.2013;Kauf;Fidelity Funds SICAV - Japan Value Fund A EUR hed o.N.;A1H8N8;LU0611489658;FIL Investment Management (Luxembourg) S.A.;70,913;13.05.2013;14,0735;EUR;5,25;90;1000;1000
+1003920840;14.05.2013;Kauf;AGIF - Allianz Thailand Equity - A - EUR ;A0Q1LH;LU0348798009;Allianz Global Investors Luxembourg S.A.;1,731;13.05.2013;576,4781;EUR;5;90;1000;1000
+1003920840;14.05.2013;Verkauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;72,504;13.05.2013;13,82;EUR;-;-;1000;1000
+1003920840;14.05.2013;Verkauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;72,504;13.05.2013;13,82;EUR;-;-;1000;1000
+1003920840;13.05.2013;Verkauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;721,645;10.05.2013;13,86;EUR;-;-;10000;10000
+1003920840;13.05.2013;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;752,329;10.05.2013;13,2894;EUR;5,25;90;10000;10000
+1003920840;15.05.2013;Kauf;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;21,817;14.05.2013;58,5886;USD;5,25;50;1000;1280,8
+1003920840;02.05.2013;Verkauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;37,158;30.04.2013;13,51;EUR;-;-;500;500
+1003920840;23.04.2013;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;190,639;22.04.2013;5,256;EUR;-;-;1000;1000
+1003920840;23.04.2013;Kauf;Fidelity Funds SICAV - Japan Value Fund A EUR hed o.N.;A1H8N8;LU0611489658;FIL Investment Management (Luxembourg) S.A.;76,427;22.04.2013;13,0582;EUR;5,25;90;1000;1000
+1003920840;24.04.2013;Tausch (Kauf);Fidelity Funds - Asia Pacific Property Fund A (EUR);A0MJQ6;LU0270844607;FIL Investment Management (Luxembourg) S.A.;47,818;23.04.2013;10,4144;EUR;5,25;90;500;500
+1003920840;22.04.2013;Tausch (Verkauf);FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;96,168;19.04.2013;5,22;EUR;-;-;500;500
+1003920840;16.04.2013;Kauf;Fidelity Funds - European High Yield Fund A (EUR);939979;LU0110060430;FIL Investment Management (Luxembourg) S.A.;48,606;15.04.2013;10,2457;EUR;3,5;90;500;500
+1003920840;16.04.2013;Verkauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;37,075;15.04.2013;13,54;EUR;-;-;500;500
+1003920840;08.04.2013;Kauf;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;227,043;05.04.2013;53,5087;USD;5,25;50;9400;12151,38
+1003920840;04.04.2013;Verkauf;Fidelity Funds - Emerging Market Debt Fund A Acc (EUR);A0H0V8;LU0238205289;FIL Investment Management (Luxembourg) S.A.;17,955;03.04.2013;16,82;EUR;-;-;300;300
+1003920840;27.03.2013;Kauf;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;105,467;26.03.2013;54,2131;USD;5,25;90;4500;5720,22
+1003920840;27.03.2013;Verkauf;Fidelity Funds - EMEA Fund A Acc (EUR);A0MWZJ;LU0303816705;FIL Investment Management (Luxembourg) S.A.;306,885;26.03.2013;14,67;EUR;-;-;4500;4500
+1003920840;06.03.2013;Gesamtverkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;596,878;05.03.2013;33,02;USD;-;-;15031,5;19706,29
+1003920840;06.03.2013;Kauf;Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;1210,16;05.03.2013;12,5958;EUR;5,25;90;15244,93;15244,93
+1003920840;05.03.2013;Kauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;994,22;04.03.2013;5,3288;EUR;5,25;90;5300;5300
+1003920840;05.03.2013;Verkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;212,713;04.03.2013;32,67;USD;-;-;5300;6946,7
+1003920840;05.03.2013;Kauf;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;2,332;04.03.2013;54,4118;USD;5,25;50;100;129,49
+1003920840;27.02.2013;Verkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;20,435;26.02.2013;32,37;USD;-;-;500;658,85
+1003920840;27.02.2013;Kauf;Fidelity Funds - Emerging Market Debt Fund A Acc (EUR);A0H0V8;LU0238205289;FIL Investment Management (Luxembourg) S.A.;29,949;26.02.2013;16,628;EUR;3,5;90;500;500
+1003920840;27.02.2013;Tausch (Kauf);Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;124,688;26.02.2013;52,4942;USD;5,25;90;5000;6548
+1003920840;25.02.2013;Tausch (Verkauf);Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;202,277;22.02.2013;32,79;USD;-;-;5000;6630
+1003920840;12.02.2013;Tausch (Kauf);Fidelity Funds - EMEA Fund A Acc (EUR);A0MWZJ;LU0303816705;FIL Investment Management (Luxembourg) S.A.;343,741;11.02.2013;14,54;EUR;5,25;100;5000;5000
+1003920840;08.02.2013;Tausch (Verkauf);Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;386,255;07.02.2013;12,95;EUR;-;-;5000;5000
+1003920840;08.02.2013;Tausch (Kauf);Fidelity Funds - Global Opportunities Fund A Acc (EUR) ;A0LE0K;LU0267387255;FIL Investment Management (Luxembourg) S.A.;413,636;07.02.2013;12,0831;EUR;5,25;90;5000;5000
+1003920840;06.02.2013;Tausch (Verkauf);Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;392,622;05.02.2013;12,74;EUR;-;-;5000;5000
+1003920840;31.01.2013;Kauf;Fidelity Funds - Germany Fund A Acc (EUR);A0LF01;LU0261948227;FIL Investment Management (Luxembourg) S.A.;7,644;30.01.2013;12,82;EUR;5,25;100;100;100
+1003920840;05.02.2013;Tausch (Kauf);Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;130,232;04.02.2013;52,0518;USD;5,25;90;5000;6781,5
+1003920840;01.02.2013;Tausch (Verkauf);Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;209,008;31.01.2013;32,72;USD;-;-;5000;6836
+1003920840;29.01.2013;Verkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;58,283;28.01.2013;32,52;USD;-;-;1400;1892,66
+1003920840;07.01.2013;Tausch (Kauf);Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;133,822;04.01.2013;48,6943;USD;5,25;90;5000;6519
+1003920840;03.01.2013;Tausch (Verkauf);Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;197,489;02.01.2013;33,18;USD;-;-;5000;6550
+1003920840;03.01.2013;Verkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;23,912;02.01.2013;33,18;USD;-;-;600;790,74
+1003920840;28.12.2012;Kauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;14,821;27.12.2012;13,3598;EUR;3,5;50;200;200
+1003920840;03.12.2012;Kauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;46,96;30.11.2012;5,2811;EUR;5,25;50;250;250
+1003920840;29.11.2012;Kauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;972,222;28.11.2012;5,1408;EUR;5,25;90;5000;5000
+1003920840;29.11.2012;Verkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;208,463;28.11.2012;31,36;USD;-;-;5000;6534,8
+1003920840;15.11.2012;Verkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;50,123;14.11.2012;30,77;USD;-;-;1200;1539,72
+1003920840;05.11.2012;Verkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;20,568;02.11.2012;31,38;USD;-;-;500;642,85
+1003920840;18.10.2012;Kauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;1668,466;17.10.2012;12,8548;EUR;3,5;90;21449,8;21449,8
+1003920840;18.10.2012;Gesamtverkauf;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;708,674;17.10.2012;39,87;USD;-;-;21409,99;28252,19
+1003920840;08.10.2012;Tausch (Kauf);Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;724,504;05.10.2012;44,7236;USD;5,25;90;25000;32405
+1003920840;04.10.2012;Tausch (Verkauf);Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;838,919;02.10.2012;38,66;USD;-;-;25000;32430
+1003920840;04.10.2012;Verkauf;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;11,88;02.10.2012;38,66;USD;-;-;350;456,68
+1003920840;12.09.2012;Verkauf;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;17,284;11.09.2012;37,64;USD;-;-;500;648
+1003920840;11.09.2012;Kauf;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;150,001;10.09.2012;42,3914;USD;5,25;90;5000;6361,31
+1003920840;21.09.2012;Gesamtverkauf;Fidelity Funds - China Consumer Fund A (EUR) ;A1JH3J;LU0594300252;FIL Investment Management (Luxembourg) S.A.;78,611;20.09.2012;10,66;EUR;-;-;835,99;835,99
+1003920840;11.09.2012;Verkauf;Fidelity Funds - China Consumer Fund A (EUR) ;A1JH3J;LU0594300252;FIL Investment Management (Luxembourg) S.A.;472,779;10.09.2012;10,58;EUR;-;-;5000;5000
+1003920840;06.09.2012;Gesamtverkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;307,679;05.09.2012;37,79;USD;-;-;9164,09;11624,65
+1003920840;06.09.2012;Kauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;722,63;05.09.2012;13,0254;EUR;3,5;90;9414,55;9414,55
+1003920840;31.08.2012;Tausch (Kauf);Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;155,531;30.08.2012;40,3809;USD;5,25;90;5000;6283
+1003920840;29.08.2012;Tausch (Verkauf);Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;159,833;28.08.2012;39,31;USD;-;-;5000;6280,5
+1003920840;27.08.2012;Ertrag Auszahlung;Fidelity Funds - China Consumer Fund A (EUR) ;A1JH3J;LU0594300252;FIL Investment Management (Luxembourg) S.A.;-;27.08.2012;-;EUR;-;-;0;0
+1003920840;27.08.2012;Ertrag Auszahlung;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;-;27.08.2012;-;USD;-;-;0;0
+1003920840;27.08.2012;Ertrag Auszahlung;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;-;27.08.2012;-;USD;-;-;0;0
+1003920840;24.08.2012;Ertrag Auszahlung;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;-;24.08.2012;-;EUR;-;-;0;0
+1003920840;21.08.2012;Ertrag Wiederanlage;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;0,103;20.08.2012;38,15;USD;5,25;100;3,22;3,94
+1003920840;17.08.2012;Ertrag;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;-;17.08.2012;-;USD;-;-;3,2;3,94
+1003920840;20.08.2012;Ertrag Wiederanlage;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;36,811;17.08.2012;5,134;EUR;5,25;100;188,99;188,99
+1003920840;16.08.2012;Ertrag;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;-;16.08.2012;-;EUR;-;-;188,99;188,99
+1003920840;20.08.2012;Ertrag Wiederanlage;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;3,902;17.08.2012;29,97;USD;5,25;100;95,35;116,94
+1003920840;16.08.2012;Ertrag;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;-;16.08.2012;-;USD;-;-;95,09;116,94
+1003920840;20.08.2012;Ertrag Wiederanlage;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;2,008;17.08.2012;40,49;USD;5,25;100;66,28;81,29
+1003920840;16.08.2012;Ertrag;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;-;16.08.2012;-;USD;-;-;66,22;81,29
+1003920840;24.07.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;3,222;23.07.2012;38,54;USD;-;-;100;121,74
+1003920840;20.08.2012;Tausch (Kauf);Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;302,675;17.08.2012;40,7026;USD;5,25;90;10000;12322,1
+1003920840;16.08.2012;Tausch (Verkauf);Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;308,588;15.08.2012;39,76;USD;-;-;10000;12267
+1003920840;17.07.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;159,347;16.07.2012;38,83;USD;-;-;5000;6185
+1003920840;17.07.2012;Kauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;378,175;16.07.2012;13,2161;EUR;3,5;90;5000;5000
+1003920840;04.07.2012;Storno Kauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;19,177;28.06.2012;12,9324;EUR;-;50;250;250
+1003920840;04.07.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;15,765;03.07.2012;40,29;USD;-;-;500;632,65
+1003920840;04.07.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;3,203;03.07.2012;40,29;USD;-;-;100;126,53
+1003920840;29.06.2012;Kauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;19,177;28.06.2012;12,9324;EUR;3,5;50;250;250
+1003920840;25.06.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;6,455;22.06.2012;39,3;USD;-;-;200;251,15
+1003920840;14.06.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;156,998;13.06.2012;40,23;USD;-;-;5000;6313,5
+1003920840;14.06.2012;Kauf;Fidelity Funds - Thailand Fund A (USD);973268;LU0048621477;FIL Investment Management (Luxembourg) S.A.;160,047;13.06.2012;38,9635;USD;5,25;90;5000;6238,5
+1003920840;14.06.2012;Entgeltbelastung;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;0,585;13.06.2012;12,42;EUR;-;-;7,26;7,26
+1003920840;13.06.2012;Kauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;39,124;12.06.2012;12,7289;EUR;3,5;50;500;500
+1003920840;06.06.2012;Storno Kauf;Fidelity Funds - China Consumer Fund A (EUR) ;A1JH3J;LU0594300252;FIL Investment Management (Luxembourg) S.A.;47,621;30.05.2012;10,4575;EUR;-;50;500;500
+1003920840;06.06.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;31,126;05.06.2012;38,47;USD;-;-;950;1194,91
+1003920840;31.05.2012;Kauf;Fidelity Funds - China Consumer Fund A (EUR) ;A1JH3J;LU0594300252;FIL Investment Management (Luxembourg) S.A.;47,621;30.05.2012;10,4575;EUR;5,25;50;500;500
+1003920840;29.05.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;14,46;25.05.2012;39,49;USD;-;-;450;568,5
+1003920840;18.05.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;3,261;16.05.2012;39,85;USD;-;-;100;127,4
+1003920840;09.05.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;3,045;08.05.2012;42,98;USD;-;-;100;130,89
+1003920840;02.05.2012;Kauf;Fidelity Funds - China Consumer Fund A (EUR) ;A1JH3J;LU0594300252;FIL Investment Management (Luxembourg) S.A.;22,884;30.04.2012;10,8372;EUR;5,25;50;250;250
+1003920840;02.05.2012;Kauf;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;23,007;30.04.2012;42,2507;USD;5,25;50;750;974,65
+1003920840;02.05.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;22,129;30.04.2012;44,58;USD;-;-;750;986,5
+1003920840;19.04.2012;Kauf;Fidelity Funds - China Consumer Fund A (EUR) ;A1JH3J;LU0594300252;FIL Investment Management (Luxembourg) S.A.;55,443;18.04.2012;10,7859;EUR;5,25;50;600;600
+1003920840;11.04.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;82,906;10.04.2012;43,17;USD;-;-;2700;3576,38
+1003920840;04.04.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;9,057;03.04.2012;43,89;USD;-;-;300;394,87
+1003920840;02.04.2012;Ertrag Auszahlung;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;-;02.04.2012;-;USD;-;-;-;-
+1003920840;26.03.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;3,143;23.03.2012;43,18;USD;-;-;100;133,05
+1003920840;19.03.2012;Verkauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;8,884;16.03.2012;45,07;USD;-;-;300;397,73
+1003920840;15.03.2012;Kauf;Fidelity Funds - Asian High Yield Fund A Acc (EUR);A0MMKQ;LU0286668966;FIL Investment Management (Luxembourg) S.A.;407,91;14.03.2012;12,2527;EUR;3,5;90;5000;5000
+1003920840;15.03.2012;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;994,433;14.03.2012;5,03;EUR;-;-;5000;5000
+1003920840;13.03.2012;Kauf;Fidelity Funds - China Consumer Fund A (EUR) ;A1JH3J;LU0594300252;FIL Investment Management (Luxembourg) S.A.;473,063;12.03.2012;10,5652;EUR;5,25;90;5000;5000
+1003920840;13.03.2012;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;1016,254;12.03.2012;4,922;EUR;-;-;5000;5000
+1003920840;08.03.2012;Kauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;120,047;07.03.2012;4,9814;EUR;5,25;50;600;600
+1003920840;06.03.2012;Kauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;989,574;05.03.2012;4,9589;EUR;5,25;90;4909,2;4909,2
+1003920840;06.03.2012;Gesamtverkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;150,58;05.03.2012;43,07;USD;-;-;4895,69;6482,83
+1003920840;02.03.2012;Verkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;15,487;01.03.2012;43,09;USD;-;-;500;664,65
+1003920840;19.01.2012;Verkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;45,817;18.01.2012;40;USD;-;-;1415,71;1830,09
+1003920840;30.11.2011;Kauf;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;102,801;29.11.2011;38,6691;USD;5,25;50;3000;3975,21
+1003920840;29.11.2011;Kauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;1135,951;28.11.2011;4,4016;EUR;5,25;50;5000;5000
+1003920840;03.11.2011;Verkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;37,473;02.11.2011;40,65;USD;-;-;1100;1520,52
+1003920840;01.11.2011;Verkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;168,854;31.10.2011;40,84;USD;-;-;5000;6893,25
+1003920840;01.11.2011;Verkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;168,854;31.10.2011;40,84;USD;-;-;5000;6893,25
+1003920840;28.10.2011;Verkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;52,096;27.10.2011;40,94;USD;-;-;1500;2129,96
+1003920840;28.10.2011;Verkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;52,096;27.10.2011;40,94;USD;-;-;1500;2129,96
+1003920840;25.10.2011;Verkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;37,564;24.10.2011;37,42;USD;-;-;1000;1402,82
+1003920840;20.09.2011;Verkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;536,167;19.09.2011;38,42;USD;-;-;15000;20596,8
+1003920840;19.09.2011;Verkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;51,758;16.09.2011;39,72;USD;-;-;1500;2053,07
+1003920840;05.09.2011;Verkauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;9,959;02.09.2011;43;USD;-;-;300;425,41
+1003920840;26.08.2011;Verkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;39,268;25.08.2011;29,59;USD;-;-;800;1159,03
+1003920840;25.08.2011;Verkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;24,541;24.08.2011;29,69;USD;-;-;500;725,72
+1003920840;23.08.2011;Ertrag Auszahlung;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;-;23.08.2011;-;USD;-;-;-;-
+1003920840;23.08.2011;Ertrag Auszahlung;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;-;23.08.2011;-;USD;-;-;-;-
+1003920840;18.08.2011;Ertrag Wiederanlage;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;6,454;17.08.2011;4,583;EUR;5,25;100;29,58;29,58
+1003920840;16.08.2011;Ertrag;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;-;16.08.2011;-;EUR;-;-;29,58;29,58
+1003920840;15.08.2011;Ertrag Auszahlung;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;-;15.08.2011;-;EUR;-;-;-;-
+1003920840;14.07.2011;Ertrag Auszahlung;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;-;14.07.2011;-;USD;-;-;-;-
+1003920840;06.07.2011;Verkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;63,722;05.07.2011;34,09;USD;-;-;1500;2169,39
+1003920840;22.06.2011;Kauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;119,528;21.06.2011;5,003;EUR;5,25;50;600;600
+1003920840;08.06.2011;Verkauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;21,832;07.06.2011;33,97;USD;-;-;500;738,69
+1003920840;17.05.2011;Verkauf;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;485,542;16.05.2011;5,153;EUR;-;-;2500;2500
+1003920840;27.04.2011;Kauf;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;19,705;21.04.2011;55,5448;USD;5;50;750;1097,45
+1003920840;26.04.2011;Kauf;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;19,101;21.04.2011;56,885;USD;5,26;50;750;1089,45
+1003920840;21.04.2011;Kauf;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;110,846;20.04.2011;49,8244;USD;5,25;50;3800;5525,77
+1003920840;21.04.2011;Kauf;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;1860,61;20.04.2011;35,9495;USD;5,25;50;46000;66890,9
+1003920840;31.03.2011;Einlieferung;Invesco PRC Equity Fund A;974759;IE0003583568;INVESCO Asset Management Ireland Limited;1280;29.03.2011;-;USD;-;-;-;-
+1003920840;29.03.2011;Einlieferung;JPM China A (dist) - USD;973778;LU0051755006;JPMorgan Asset Mgmt. (Europe) S.à r.l.;1307;28.03.2011;-;USD;-;-;-;-
+1003920840;29.03.2011;Einlieferung;FF - Asia Equity ESG Fund A-EUR ;986394;LU0069452877;FIL Investment Management (Luxembourg) S.A.;10566;28.03.2011;-;EUR;-;-;-;-
+1003920840;29.03.2011;Einlieferung;Fidelity Funds - China Focus Fund A (USD);A0CA6V;LU0173614495;FIL Investment Management (Luxembourg) S.A.;1340;28.03.2011;-;USD;-;-;-;-
+1003920840;29.03.2011;Einlieferung;Fidelity Funds - Asian Special Situations Fund A (USD);974005;LU0054237671;FIL Investment Management (Luxembourg) S.A.;85;28.03.2011;-;USD;-;-;-;-

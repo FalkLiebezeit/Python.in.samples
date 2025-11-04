@@ -1,0 +1,301 @@
+participant,smoking_habit,exercise_frequency
+1,Occasional smoker,Moderate
+2,Regular smoker,Moderate
+3,Heavy smoker,Low
+4,Heavy smoker,Moderate
+5,Regular smoker,Low
+6,Regular smoker,Moderate
+7,Heavy smoker,High
+8,Heavy smoker,High
+9,Occasional smoker,High
+10,Heavy smoker,High
+11,Non-smoker,Moderate
+12,Occasional smoker,Low
+13,Regular smoker,High
+14,Non-smoker,Moderate
+15,Non-smoker,High
+16,Regular smoker,High
+17,Regular smoker,Moderate
+18,Heavy smoker,Low
+19,Regular smoker,Low
+20,Occasional smoker,Low
+21,Occasional smoker,Moderate
+22,Occasional smoker,High
+23,Heavy smoker,Low
+24,Regular smoker,High
+25,Occasional smoker,Moderate
+26,Heavy smoker,Low
+27,Regular smoker,Low
+28,Occasional smoker,Moderate
+29,Heavy smoker,Low
+30,Occasional smoker,Moderate
+31,Occasional smoker,High
+32,Heavy smoker,High
+33,Occasional smoker,Moderate
+34,Occasional smoker,High
+35,Regular smoker,High
+36,Heavy smoker,High
+37,Heavy smoker,High
+38,Regular smoker,Low
+39,Occasional smoker,High
+40,Occasional smoker,High
+41,Regular smoker,High
+42,Non-smoker,Low
+43,Occasional smoker,High
+44,Non-smoker,High
+45,Regular smoker,High
+46,Occasional smoker,High
+47,Non-smoker,Moderate
+48,Non-smoker,Low
+49,Non-smoker,High
+50,Non-smoker,Low
+51,Non-smoker,Low
+52,Heavy smoker,High
+53,Occasional smoker,Low
+54,Heavy smoker,Moderate
+55,Regular smoker,High
+56,Occasional smoker,Low
+57,Heavy smoker,Moderate
+58,Occasional smoker,Moderate
+59,Regular smoker,Low
+60,Heavy smoker,High
+61,Regular smoker,Moderate
+62,Non-smoker,Moderate
+63,Heavy smoker,Moderate
+64,Non-smoker,High
+65,Regular smoker,Low
+66,Regular smoker,Moderate
+67,Non-smoker,Low
+68,Occasional smoker,Moderate
+69,Regular smoker,High
+70,Heavy smoker,Moderate
+71,Occasional smoker,Low
+72,Heavy smoker,Moderate
+73,Regular smoker,Moderate
+74,Occasional smoker,High
+75,Non-smoker,Low
+76,Heavy smoker,Moderate
+77,Occasional smoker,Low
+78,Regular smoker,Moderate
+79,Regular smoker,Low
+80,Heavy smoker,High
+81,Non-smoker,Moderate
+82,Non-smoker,High
+83,Non-smoker,Moderate
+84,Occasional smoker,Moderate
+85,Heavy smoker,Moderate
+86,Non-smoker,High
+87,Occasional smoker,Moderate
+88,Regular smoker,High
+89,Non-smoker,Low
+90,Non-smoker,Low
+91,Heavy smoker,Moderate
+92,Regular smoker,High
+93,Regular smoker,High
+94,Heavy smoker,Moderate
+95,Occasional smoker,Moderate
+96,Heavy smoker,High
+97,Occasional smoker,High
+98,Regular smoker,Moderate
+99,Non-smoker,Moderate
+100,Occasional smoker,Low
+101,Regular smoker,Low
+102,Heavy smoker,Low
+103,Regular smoker,High
+104,Heavy smoker,Moderate
+105,Non-smoker,Moderate
+106,Non-smoker,Low
+107,Heavy smoker,Low
+108,Non-smoker,Moderate
+109,Non-smoker,Low
+110,Occasional smoker,Moderate
+111,Heavy smoker,High
+112,Occasional smoker,Moderate
+113,Regular smoker,Low
+114,Regular smoker,Moderate
+115,Non-smoker,High
+116,Heavy smoker,Moderate
+117,Heavy smoker,High
+118,Regular smoker,Low
+119,Non-smoker,High
+120,Regular smoker,High
+121,Non-smoker,Moderate
+122,Heavy smoker,Moderate
+123,Heavy smoker,Low
+124,Non-smoker,High
+125,Occasional smoker,Low
+126,Non-smoker,High
+127,Heavy smoker,High
+128,Regular smoker,High
+129,Regular smoker,Low
+130,Non-smoker,Moderate
+131,Heavy smoker,Low
+132,Regular smoker,Low
+133,Non-smoker,Moderate
+134,Heavy smoker,Moderate
+135,Heavy smoker,Low
+136,Heavy smoker,High
+137,Heavy smoker,Moderate
+138,Heavy smoker,Moderate
+139,Non-smoker,High
+140,Non-smoker,High
+141,Regular smoker,High
+142,Non-smoker,Moderate
+143,Regular smoker,Low
+144,Non-smoker,High
+145,Regular smoker,Low
+146,Heavy smoker,Moderate
+147,Occasional smoker,High
+148,Heavy smoker,High
+149,Occasional smoker,Moderate
+150,Non-smoker,Moderate
+151,Non-smoker,High
+152,Non-smoker,Moderate
+153,Non-smoker,High
+154,Occasional smoker,High
+155,Occasional smoker,High
+156,Regular smoker,Low
+157,Occasional smoker,High
+158,Non-smoker,Low
+159,Non-smoker,Low
+160,Regular smoker,Moderate
+161,Occasional smoker,Moderate
+162,Regular smoker,Moderate
+163,Heavy smoker,High
+164,Occasional smoker,High
+165,Heavy smoker,Low
+166,Regular smoker,Low
+167,Occasional smoker,High
+168,Regular smoker,Low
+169,Heavy smoker,Moderate
+170,Regular smoker,High
+171,Occasional smoker,Moderate
+172,Non-smoker,High
+173,Occasional smoker,High
+174,Non-smoker,High
+175,Heavy smoker,Moderate
+176,Non-smoker,Low
+177,Regular smoker,Moderate
+178,Regular smoker,High
+179,Regular smoker,Moderate
+180,Occasional smoker,Moderate
+181,Occasional smoker,Low
+182,Regular smoker,Moderate
+183,Non-smoker,High
+184,Regular smoker,Low
+185,Occasional smoker,Moderate
+186,Heavy smoker,Low
+187,Heavy smoker,Moderate
+188,Occasional smoker,Moderate
+189,Heavy smoker,Moderate
+190,Regular smoker,High
+191,Regular smoker,Low
+192,Heavy smoker,Moderate
+193,Heavy smoker,Moderate
+194,Heavy smoker,Moderate
+195,Non-smoker,Low
+196,Occasional smoker,Moderate
+197,Heavy smoker,High
+198,Heavy smoker,Low
+199,Heavy smoker,Moderate
+200,Regular smoker,High
+201,Occasional smoker,High
+202,Regular smoker,Low
+203,Regular smoker,Moderate
+204,Non-smoker,High
+205,Regular smoker,Low
+206,Occasional smoker,High
+207,Non-smoker,High
+208,Non-smoker,Low
+209,Non-smoker,Low
+210,Heavy smoker,Low
+211,Non-smoker,Low
+212,Regular smoker,Low
+213,Non-smoker,High
+214,Heavy smoker,High
+215,Regular smoker,Moderate
+216,Occasional smoker,Moderate
+217,Occasional smoker,High
+218,Non-smoker,Low
+219,Regular smoker,Moderate
+220,Non-smoker,Moderate
+221,Heavy smoker,High
+222,Non-smoker,Low
+223,Heavy smoker,High
+224,Regular smoker,Low
+225,Non-smoker,Moderate
+226,Heavy smoker,Moderate
+227,Occasional smoker,High
+228,Non-smoker,High
+229,Heavy smoker,High
+230,Non-smoker,Moderate
+231,Regular smoker,Low
+232,Regular smoker,Moderate
+233,Occasional smoker,High
+234,Non-smoker,High
+235,Non-smoker,High
+236,Heavy smoker,Moderate
+237,Occasional smoker,High
+238,Non-smoker,Moderate
+239,Non-smoker,High
+240,Regular smoker,Low
+241,Occasional smoker,Moderate
+242,Regular smoker,Low
+243,Heavy smoker,High
+244,Occasional smoker,Low
+245,Occasional smoker,High
+246,Heavy smoker,High
+247,Heavy smoker,Moderate
+248,Heavy smoker,Moderate
+249,Regular smoker,High
+250,Heavy smoker,High
+251,Occasional smoker,High
+252,Heavy smoker,High
+253,Heavy smoker,Moderate
+254,Heavy smoker,Low
+255,Regular smoker,Low
+256,Non-smoker,High
+257,Heavy smoker,Low
+258,Regular smoker,Moderate
+259,Occasional smoker,Low
+260,Heavy smoker,Low
+261,Heavy smoker,High
+262,Non-smoker,Low
+263,Occasional smoker,High
+264,Non-smoker,Low
+265,Non-smoker,Low
+266,Occasional smoker,Moderate
+267,Non-smoker,High
+268,Heavy smoker,Low
+269,Non-smoker,Moderate
+270,Occasional smoker,Low
+271,Occasional smoker,High
+272,Heavy smoker,High
+273,Heavy smoker,Moderate
+274,Heavy smoker,Low
+275,Heavy smoker,High
+276,Heavy smoker,High
+277,Occasional smoker,High
+278,Occasional smoker,Low
+279,Regular smoker,Moderate
+280,Non-smoker,Low
+281,Occasional smoker,Moderate
+282,Regular smoker,High
+283,Non-smoker,Low
+284,Occasional smoker,Moderate
+285,Non-smoker,High
+286,Regular smoker,High
+287,Occasional smoker,Low
+288,Occasional smoker,Moderate
+289,Occasional smoker,High
+290,Regular smoker,High
+291,Heavy smoker,Low
+292,Regular smoker,Moderate
+293,Non-smoker,Moderate
+294,Heavy smoker,High
+295,Regular smoker,High
+296,Heavy smoker,Low
+297,Occasional smoker,Low
+298,Occasional smoker,Moderate
+299,Heavy smoker,High
+300,Heavy smoker,High

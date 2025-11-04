@@ -1,0 +1,22 @@
+Depotstammnummer;Buchungsdatum;Transaktion;Fondsname;WKN;ISIN;Fondsgesellschaft;Anteile;Abrechnungsdatum;Abrechnungspreis;Fondswährung;Ausgabeaufschlag in %;Rabatt in %;Abrechnungsbetrag in EUR;Abrechnungsbetrag in Fondswährung
+1003920840;27.06.2025;Kauf;iShares S&P 500 Information Technology Sector UCITS ETF;A142N1;IE00B3WJKG14;iShares;1,617;26.06.2025;36,0300;USD;0,20;100,00;50,00;58,25
+1003920840;24.06.2025;Tausch Gesamt (Kauf);iShares S&P 500 Information Technology Sector UCITS ETF;A142N1;IE00B3WJKG14;iShares;1858,411;23.06.2025;34,6150;USD;0,20;100,00;55826,14;64328,91
+1003920840;23.06.2025;Tausch Gesamt (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;320,104;20.06.2025;174,4000;EUR;-;-;55826,14;55826,14
+1003920840;19.06.2025;Verkauf;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;1,417;18.06.2025;176,4000;EUR;-;-;250,00;250,00
+1003920840;18.06.2025;Tausch (Kauf);Amundi MSCI Emerging Ex China UCITS ETF Acc;LYX99G;LU2009202107;Lyxor International Asset Management S.A.S.;1592,391;17.06.2025;28,7350;USD;0,20;100,00;40000,00;45757,36
+1003920840;17.06.2025;Tausch (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;227,015;16.06.2025;176,2000;EUR;-;-;40000,00;40000,00
+1003920840;18.06.2025;Tausch (Kauf);iShares MSCI South Africa UCITS ETF;A0YJ8Y;IE00B52XQP83;iShares;264,005;17.06.2025;43,3300;USD;0,20;100,00;10000,00;11439,34
+1003920840;17.06.2025;Tausch (Verkauf);Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;56,754;16.06.2025;176,2000;EUR;-;-;10000,00;10000,00
+1003920840;17.06.2025;Kauf aus Sparplan;iShares S&P 500 Information Technology Sector UCITS ETF;A142N1;IE00B3WJKG14;iShares;0,835;16.06.2025;34,3900;USD;0,20;100,00;25,00;28,71
+1003920840;17.06.2025;Kauf aus Sparplan;UBS (Lux) Fund Solutions - UBS Solactive China Technology UCITS ETF A  ;A2QJ9G;LU2265794276;UBS (Luxembourg) S.A.;3,694;16.06.2025;7,7730;USD;0,20;100,00;25,00;28,71
+1003920840;17.06.2025;Kauf aus Sparplan;Amundi MSCI Emerging Ex China UCITS ETF Acc;LYX99G;LU2009202107;Lyxor International Asset Management S.A.S.;0,994;16.06.2025;28,8700;USD;0,20;100,00;25,00;28,71
+1003920840;16.06.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;0,491;16.06.2025;50,9500;EUR;0,20;100,00;25,00;25,00
+1003920840;17.06.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,142;16.06.2025;176,2000;EUR;0,00;100,00;25,00;25,00
+1003920840;13.06.2025;Tausch (Kauf);UBS (Lux) Fund Solutions - UBS Solactive China Technology UCITS ETF A  ;A2QJ9G;LU2265794276;UBS (Luxembourg) S.A.;4239,551;12.06.2025;7,8470;USD;0,20;100,00;29000,00;33267,76
+1003920840;11.06.2025;Tausch (Verkauf);Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;559,521;11.06.2025;51,8300;EUR;-;-;29000,00;29000,00
+1003920840;10.06.2025;Kauf;UBS (Lux) Fund Solutions - UBS Solactive China Technology UCITS ETF A  ;A2QJ9G;LU2265794276;UBS (Luxembourg) S.A.;730,039;09.06.2025;7,7599;USD;0,20;100,00;5000,00;5665,03
+1003920840;10.06.2025;Kauf;UBS (Lux) Fund Solutions - UBS Solactive China Technology UCITS ETF A  ;A2QJ9G;LU2265794276;UBS (Luxembourg) S.A.;803,043;09.06.2025;7,7599;USD;0,20;100,00;5500,00;6231,53
+1003920840;03.06.2025;Kauf aus Sparplan;Amundi MSCI Emerging Ex China UCITS ETF Acc;LYX99G;LU2009202107;Lyxor International Asset Management S.A.S.;2,047;02.06.2025;27,6950;USD;0,20;100,00;50,00;56,69
+1003920840;03.06.2025;Kauf aus Sparplan;UBS (Lux) Fund Solutions - UBS Solactive China Technology UCITS ETF A  ;A2QJ9G;LU2265794276;UBS (Luxembourg) S.A.;7,706;02.06.2025;7,3570;USD;0,20;100,00;50,00;56,69
+1003920840;02.06.2025;Kauf aus Sparplan;Amundi MSCI Semiconductor UCITS ETF Acc EUR ;LYX018;LU1900066033;Amundi Asset Management;3,137;02.06.2025;47,8150;EUR;0,20;100,00;150,00;150,00
+1003920840;03.06.2025;Kauf aus Sparplan;Fidelity Funds - Global Technology Fund Y Acc (EUR) ;A0NGW1;LU0346389348;FIL Investment Management (Luxembourg) S.A.;0,882;02.06.2025;170,0000;EUR;0,00;100,00;150,00;150,00
