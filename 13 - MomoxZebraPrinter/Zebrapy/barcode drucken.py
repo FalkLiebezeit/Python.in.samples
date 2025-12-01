@@ -60,6 +60,6 @@ zpl_command = """
 ^XZ
 """
 
-# Den Druck 23 Mal ausführen
+# Den Druck 1 Mal ausführen
 for _ in range(1):
     print_barcode(printer_ip, printer_port, zpl_command)
