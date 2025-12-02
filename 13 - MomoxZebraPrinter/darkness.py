@@ -18,6 +18,7 @@ def get_printer_settings(ip_address, port=9100):
 
 # Liste von IP-Adressen der Drucker
 printer_ips = ["12.0.1.115","12.0.1.116","12.0.1.117","12.0.1.118"]
+
 # Daten in eine Liste speichern
 data = []
 for ip in printer_ips:
