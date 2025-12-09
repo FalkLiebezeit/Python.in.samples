@@ -5,6 +5,18 @@
 		}
 	],
 	"settings": {
-		"git.ignoreLimitWarning": true
+		"git.ignoreLimitWarning": true,
+		"python-envs.pythonProjects": [
+			{
+				"path": "",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			},
+			{
+				"path": "11 - Web Flask/flask book project",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip"
+			}
+		]
 	}
 }
