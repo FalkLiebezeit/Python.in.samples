@@ -8,6 +8,20 @@ todos = [
     {"id": 2, "task": "Python lernen", "done": True}
 ]
 
+# GET: Home-Seite mit API-Dokumentation
+@app.route("/", methods=["GET"])
+def home():
+    return jsonify({
+        "message": "Todo REST API",
+        "endpoints": {
+            "GET /todos": "Alle Todos abrufen",
+            "GET /todos/<id>": "Einzelnes Todo abrufen",
+            "POST /todos": "Neues Todo hinzufügen (JSON: {\"task\": \"...\", \"done\": false})",
+            "PUT /todos/<id>": "Todo aktualisieren",
+            "DELETE /todos/<id>": "Todo löschen"
+        }
+    })
+
 # GET: Alle Todos abrufen
 @app.route("/todos", methods=["GET"])
 def get_todos():
@@ -15,6 +29,7 @@ def get_todos():
 
 # GET: Einzelnes Todo abrufen
 @app.route("/todos/<int:todo_id>", methods=["GET"])
+
 def get_todo(todo_id):
     todo = next((t for t in todos if t["id"] == todo_id), None)
     return jsonify(todo) if todo else ("Not Found", 404)

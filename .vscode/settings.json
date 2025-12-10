@@ -5,5 +5,10 @@
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
         }
-    ]
+    ],
+    "python.defaultInterpreterPath": "${workspaceFolder}/Python.in.samples/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.env.windows": {
+        "VIRTUAL_ENV": "${workspaceFolder}/Python.in.samples"
+    }
 }

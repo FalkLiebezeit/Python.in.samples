@@ -38,7 +38,7 @@ def pysnmp_available() -> bool:
 	test is meaningful for the functions below.
 	"""
 	try:
-		import pysnmp.hlapi  # type: ignore
+		from pysnmp.hlapi.v3arch.asyncio import SnmpEngine  # type: ignore
 		return True
 	except Exception:
 		return False
@@ -50,36 +50,37 @@ def snmp_get(ip: str, oid: str, community: str = DEFAULT_SNMP_COMMUNITY, timeout
 	Raises RuntimeError when pysnmp is not available or on SNMP errors.
 	"""
 	try:
-		from pysnmp.hlapi import (
+		from pysnmp.hlapi.v3arch.asyncio import (
 			SnmpEngine,
 			CommunityData,
 			UdpTransportTarget,
 			ContextData,
 			ObjectType,
 			ObjectIdentity,
-			getCmd,
+			get_cmd,
 		)
+		import asyncio
 	except Exception as exc:  # pragma: no cover - runtime import check
 		raise RuntimeError("pysnmp is required for SNMP operations") from exc
 
-	iterator = getCmd(
-		SnmpEngine(),
-		CommunityData(community, mpModel=1),  # SNMPv2c
-		UdpTransportTarget((ip, 161), timeout=timeout, retries=0),
-		ContextData(),
-		ObjectType(ObjectIdentity(oid)),
-	)
+	async def _get():
+		errorIndication, errorStatus, errorIndex, varBinds = await get_cmd(
+			SnmpEngine(),
+			CommunityData(community, mpModel=1),  # SNMPv2c
+			await UdpTransportTarget.create((ip, 161), timeout=timeout, retries=0),
+			ContextData(),
+			ObjectType(ObjectIdentity(oid)),
+		)
+		if errorIndication:
+			raise RuntimeError(f"SNMP error: {errorIndication}")
+		if errorStatus:
+			raise RuntimeError(f"SNMP error: {errorStatus.prettyPrint()}")
 
-	errorIndication, errorStatus, errorIndex, varBinds = next(iterator)
-	if errorIndication:
-		raise RuntimeError(f"SNMP error: {errorIndication}")
-	if errorStatus:
-		raise RuntimeError(f"SNMP error: {errorStatus.prettyPrint()}")
+		for vb_oid, vb_val in varBinds:
+			return str(vb_oid), str(vb_val)
+		return None
 
-	for vb_oid, vb_val in varBinds:
-		return str(vb_oid), str(vb_val)
-
-	return None
+	return asyncio.run(_get())
 
 
 def snmp_walk(ip: str, oid: str, community: str = DEFAULT_SNMP_COMMUNITY, timeout: int = 2) -> List[Tuple[str, str]]:
@@ -88,36 +89,39 @@ def snmp_walk(ip: str, oid: str, community: str = DEFAULT_SNMP_COMMUNITY, timeou
 	Raises RuntimeError when pysnmp is not available or on SNMP errors.
 	"""
 	try:
-		from pysnmp.hlapi import (
+		from pysnmp.hlapi.v3arch.asyncio import (
 			SnmpEngine,
 			CommunityData,
 			UdpTransportTarget,
 			ContextData,
 			ObjectType,
 			ObjectIdentity,
-			nextCmd,
+			bulk_cmd,
 		)
+		import asyncio
 	except Exception as exc:  # pragma: no cover - runtime import check
 		raise RuntimeError("pysnmp is required for SNMP operations") from exc
 
-	results: List[Tuple[str, str]] = []
-	for (errorIndication, errorStatus, errorIndex, varBinds) in nextCmd(
-		SnmpEngine(),
-		CommunityData(community, mpModel=1),
-		UdpTransportTarget((ip, 161), timeout=timeout, retries=0),
-		ContextData(),
-		ObjectType(ObjectIdentity(oid)),
-		lexicographicMode=False,
-	):
-		if errorIndication:
-			raise RuntimeError(f"SNMP error: {errorIndication}")
-		if errorStatus:
-			raise RuntimeError(f"SNMP error: {errorStatus.prettyPrint()}")
+	async def _walk():
+		results: List[Tuple[str, str]] = []
+		async for (errorIndication, errorStatus, errorIndex, varBinds) in bulk_cmd(
+			SnmpEngine(),
+			CommunityData(community, mpModel=1),
+			await UdpTransportTarget.create((ip, 161), timeout=timeout, retries=0),
+			ContextData(),
+			0, 25,  # non-repeaters, max-repetitions
+			ObjectType(ObjectIdentity(oid)),
+		):
+			if errorIndication:
+				raise RuntimeError(f"SNMP error: {errorIndication}")
+			if errorStatus:
+				raise RuntimeError(f"SNMP error: {errorStatus.prettyPrint()}")
 
-		for varBind in varBinds:
-			results.append((str(varBind[0]), str(varBind[1])))
+			for varBind in varBinds:
+				results.append((str(varBind[0]), str(varBind[1])))
+		return results
 
-	return results
+	return asyncio.run(_walk())
 
 
 def main(argv: List[str]) -> int:
