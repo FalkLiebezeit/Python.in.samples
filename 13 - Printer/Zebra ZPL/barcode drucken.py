@@ -27,7 +27,9 @@ def print_barcode(ip_address, port, barcode_data):
         print(f"Fehler beim Senden an den Drucker: {e}")
 
 # IP-Adresse und Port des Druckers
-printer_ip = "12.0.1.177"
+#printer_ip = "12.0.1.177"
+printer_ip = "10.24.1.193"
+
 printer_port = 9100  # Standardport für Netzwerkdrucker
 
 # ZPL Barcode Befehl
