@@ -6,6 +6,8 @@
 	],
 	"settings": {
 		"git.ignoreLimitWarning": true,
+		"python.defaultInterpreterPath": "${workspaceFolder}/Python.in.samples/Scripts/python.exe",
+		"python.terminal.activateEnvironment": true,
 		"python-envs.pythonProjects": [
 			{
 				"path": "",
@@ -13,7 +15,7 @@
 				"packageManager": "ms-python.python:pip"
 			},
 			{
-				"path": "11 - Web Flask/flask book project",
+				"path": "13 - Printer",
 				"envManager": "ms-python.python:venv",
 				"packageManager": "ms-python.python:pip"
 			}
