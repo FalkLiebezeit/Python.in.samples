@@ -19,6 +19,13 @@
 				"envManager": "ms-python.python:venv",
 				"packageManager": "ms-python.python:pip"
 			}
-		]
+		],
+		"terminal.integrated.defaultProfile.windows": "PowerShell (venv)",
+		"terminal.integrated.profiles.windows": {
+			"PowerShell (venv)": {
+				"source": "PowerShell",
+				"args": ["-NoExit", "-Command", "& '${workspaceFolder}\\.venv\\Scripts\\Activate.ps1'"]
+			}
+		}
 	}
 }
