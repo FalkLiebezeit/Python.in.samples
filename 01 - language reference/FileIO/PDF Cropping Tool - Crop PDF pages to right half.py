@@ -16,8 +16,8 @@ import sys
 from pathlib import Path
 
 # Raw strings for Windows paths (or use forward slashes)
-input_file = r".\halle_21_2_original.pdf"
-output_file = r".\halle_21_2_cut.pdf"
+input_file = r"C:\Users\Falk\OneDrive\Desktop\Ausleuchtung\Hallenpläne\Hallen\Halle 22.pdf"
+output_file = r"C:\Users\Falk\OneDrive\Desktop\Ausleuchtung\Hallenpläne\Hallen\Halle 22_cropped.pdf"
 
 
 def crop_pdf_to_right_half(input_path: str, output_path: str) -> None:

@@ -4,11 +4,20 @@
             "path": "",
             "envManager": "ms-python.python:venv",
             "packageManager": "ms-python.python:pip"
+        },
+        {
+            "path": "13 - Printer",
+            "envManager": "ms-python.python:venv",
+            "packageManager": "ms-python.python:pip"
         }
     ],
     "python.defaultInterpreterPath": "${workspaceFolder}/Python.in.samples/Scripts/python.exe",
     "python.terminal.activateEnvironment": true,
     "terminal.integrated.env.windows": {
         "VIRTUAL_ENV": "${workspaceFolder}/Python.in.samples"
-    }
+    },
+    "ruff.path": [
+        "${workspaceFolder}/Python.in.samples/Scripts/ruff.exe"
+    ],
+    "ruff.importStrategy": "fromEnvironment"
 }
