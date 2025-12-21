@@ -16,6 +16,18 @@
     "terminal.integrated.env.windows": {
         "VIRTUAL_ENV": "${workspaceFolder}/Python.in.samples"
     },
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell",
+            "args": [
+                "-NoExit",
+                "-Command",
+                "& '${workspaceFolder}\\Python.in.samples\\Scripts\\Activate.ps1'"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
     "ruff.path": [
         "${workspaceFolder}/Python.in.samples/Scripts/ruff.exe"
     ],
