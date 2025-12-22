@@ -198,8 +198,8 @@ def main():
     """
     # Paths to the databases
     base_path = Path(__file__).parent
-    source_db = base_path / "quelle.db"
-    target_db = base_path / "ziel.db"
+    source_db = base_path / "nfcdb.db"
+    target_db = base_path / "falk.db"
     
     print("=" * 60)
     print("SQLite Data Copy Tool")
@@ -211,8 +211,8 @@ def main():
         count = copy_table_data(
             source_db=str(source_db),
             target_db=str(target_db),
-            source_table="lieferanten",
-            target_table="lieferanten"
+            source_table="tags",
+            target_table="tag"
         )
         print(f"✓ {count} records copied")
     except Exception as e:
