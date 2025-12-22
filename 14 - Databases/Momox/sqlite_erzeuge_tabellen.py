@@ -7,7 +7,7 @@ import sqlite3
 from pathlib import Path
 
 
-def create_database(db_path: str = "falk.db") -> None:
+def create_database(db_path: str = r"C:\Users\Falk\source\repos\Python.in.samples\14 - Databases\Momox\falk.db") -> None:
     """
     Erstellt die Datenbanktabellen für die Lagerverwaltung.
     
@@ -53,7 +53,7 @@ def create_database(db_path: str = "falk.db") -> None:
             """)
             
             con.commit()
-            
+
             print(f"Tabellen erfolgreich erstellt: {Path(db_path).absolute()}")
             
     except sqlite3.Error as e:

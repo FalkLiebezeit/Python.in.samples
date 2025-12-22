@@ -8,7 +8,7 @@ import sqlite3
 from typing import Tuple
 
 
-def insert_sample_data(db_path: str = "lagerverwaltung.db") -> None:
+def insert_sample_data(db_path: str = r"C:\Users\Falk\source\repos\Python.in.samples\14 - Databases\Momox\falk.db") -> None:
     """
     Fügt Beispieldaten in die Datenbanktabellen ein.
     

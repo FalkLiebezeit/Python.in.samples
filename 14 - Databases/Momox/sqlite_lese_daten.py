@@ -9,7 +9,7 @@ from typing import List, Tuple
 
 
 def query_items_by_supplier_phone(
-    db_path: str = "falk.db", 
+    db_path: str = r"C:\Users\Falk\source\repos\Python.in.samples\14 - Databases\Momox\falk.db", 
     phone: str = "011235813"
 ) -> List[Tuple]:
     """
