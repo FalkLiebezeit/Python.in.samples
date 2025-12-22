@@ -3,7 +3,7 @@ import os
 
 # Pfad zum Momox-Ordner
 db_folder = r"C:\Users\Falk\source\repos\Python.in.samples\14 - Databases\Momox"
-db_path = os.path.join(db_folder, "Falk.db")
+db_path = os.path.join(db_folder, "Falk00.db")
 
 # Datenbank erstellen und verbinden
 conn = sqlite3.connect(db_path)
