@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-Copies data from one SQLite database table to another SQLite database table.
+Kopiert Daten aus einer SQLite-Datenbanktabelle in eine andere SQLite-Datenbanktabelle.
 """
 
 import sqlite3
@@ -10,14 +10,14 @@ from typing import List, Tuple, Optional
 
 def get_table_columns(cursor: sqlite3.Cursor, table_name: str) -> List[str]:
     """
-    Retrieves the column names of a table.
+    Ruft die Spaltennamen einer Tabelle ab.
     
     Args:
-        cursor: Database cursor
-        table_name: Name of the table
+        cursor: Datenbank-Cursor
+        table_name: Name der Tabelle
         
     Returns:
-        List of column names
+        Liste der Spaltennamen
     """
     cursor.execute(f"PRAGMA table_info({table_name})")
     columns = [row[1] for row in cursor.fetchall()]
@@ -33,37 +33,37 @@ def copy_table_data(
     column_mapping: Optional[dict] = None
 ) -> int:
     """
-    Copies data from a source table to a target table.
+    Kopiert Daten von einer Quelltabelle in eine Zieltabelle.
     
     Args:
-        source_db: Path to the source database
-        target_db: Path to the target database
-        source_table: Name of the source table
-        target_table: Name of the target table
-        where_clause: Optional WHERE condition for source data (e.g., "id > 100")
-        column_mapping: Optional dictionary for column mapping {source_column: target_column}
+        source_db: Pfad zur Quelldatenbank
+        target_db: Pfad zur Zieldatenbank
+        source_table: Name der Quelltabelle
+        target_table: Name der Zieltabelle
+        where_clause: Optionale WHERE-Bedingung für Quelldaten (z.B. "id > 100")
+        column_mapping: Optionales Dictionary für Spaltenzuordnung {quell_spalte: ziel_spalte}
         
     Returns:
-        Number of copied records
+        Anzahl der kopierten Datensätze
     """
     try:
-        # Connect to source database
+        # Verbindung zur Quelldatenbank
         source_conn = sqlite3.connect(source_db)
         source_cursor = source_conn.cursor()
         
-        # Connect to target database
+        # Verbindung zur Zieldatenbank
         target_conn = sqlite3.connect(target_db)
         target_cursor = target_conn.cursor()
         
-        # Retrieve column names from source table
+        # Spaltennamen der Quelltabelle abrufen
         source_columns = get_table_columns(source_cursor, source_table)
         
-        # Retrieve column names from target table
+        # Spaltennamen der Zieltabelle abrufen
         target_columns = get_table_columns(target_cursor, target_table)
         
-        # Determine column mapping
+        # Spaltenzuordnung bestimmen
         if column_mapping:
-            # Use user-defined mapping
+            # Verwende benutzerdefinierte Zuordnung
             columns_to_copy = []
             target_cols = []
             for src_col, tgt_col in column_mapping.items():
@@ -71,17 +71,17 @@ def copy_table_data(
                     columns_to_copy.append(src_col)
                     target_cols.append(tgt_col)
         else:
-            # Automatic mapping: Only common column names
+            # Automatische Zuordnung: Nur gemeinsame Spaltennamen
             columns_to_copy = [col for col in source_columns if col in target_columns]
             target_cols = columns_to_copy.copy()
         
         if not columns_to_copy:
-            print("No matching columns found!")
+            print("Keine übereinstimmenden Spalten gefunden!")
             return 0
         
-        print(f"Columns to copy: {', '.join(columns_to_copy)}")
+        print(f"Zu kopierende Spalten: {', '.join(columns_to_copy)}")
         
-        # Read data from source table
+        # Daten aus Quelltabelle lesen
         query = f"SELECT {', '.join(columns_to_copy)} FROM {source_table}"
         if where_clause:
             query += f" WHERE {where_clause}"
@@ -90,10 +90,10 @@ def copy_table_data(
         rows = source_cursor.fetchall()
         
         if not rows:
-            print("No data to copy found.")
+            print("Keine Daten zum Kopieren gefunden.")
             return 0
         
-        # Insert data into target table
+        # Daten in Zieltabelle einfügen
         placeholders = ', '.join(['?' for _ in target_cols])
         insert_query = f"INSERT INTO {target_table} ({', '.join(target_cols)}) VALUES ({placeholders})"
         
@@ -101,12 +101,12 @@ def copy_table_data(
         target_conn.commit()
         
         copied_count = len(rows)
-        print(f"{copied_count} records successfully copied.")
+        print(f"{copied_count} Datensätze erfolgreich kopiert.")
         
         return copied_count
         
     except sqlite3.Error as e:
-        print(f"Database error: {e}")
+        print(f"Datenbankfehler: {e}")
         raise
         
     finally:
@@ -124,44 +124,44 @@ def copy_table_data_with_attach(
     where_clause: Optional[str] = None
 ) -> int:
     """
-    Copies data using ATTACH DATABASE (alternative method).
-    This method is more efficient for large datasets.
+    Kopiert Daten mittels ATTACH DATABASE (alternative Methode).
+    Diese Methode ist effizienter für große Datenmengen.
     
     Args:
-        source_db: Path to the source database
-        target_db: Path to the target database
-        source_table: Name of the source table
-        target_table: Name of the target table
-        where_clause: Optional WHERE condition
+        source_db: Pfad zur Quelldatenbank
+        target_db: Pfad zur Zieldatenbank
+        source_table: Name der Quelltabelle
+        target_table: Name der Zieltabelle
+        where_clause: Optionale WHERE-Bedingung
         
     Returns:
-        Number of copied records
+        Anzahl der kopierten Datensätze
     """
     try:
-        # Connect to target database
+        # Verbindung zur Zieldatenbank
         conn = sqlite3.connect(target_db)
         cursor = conn.cursor()
         
-        # Attach source database
+        # Quelldatenbank anhängen
         cursor.execute(f"ATTACH DATABASE '{source_db}' AS source_db")
         
-        # Determine column names
+        # Spaltennamen ermitteln
         cursor.execute(f"PRAGMA source_db.table_info({source_table})")
         source_columns = [row[1] for row in cursor.fetchall()]
         
         cursor.execute(f"PRAGMA table_info({target_table})")
         target_columns = [row[1] for row in cursor.fetchall()]
         
-        # Find common columns
+        # Gemeinsame Spalten finden
         common_columns = [col for col in source_columns if col in target_columns]
         
         if not common_columns:
-            print("No matching columns found!")
+            print("Keine übereinstimmenden Spalten gefunden!")
             return 0
         
-        print(f"Columns to copy: {', '.join(common_columns)}")
+        print(f"Zu kopierende Spalten: {', '.join(common_columns)}")
         
-        # Copy data
+        # Daten kopieren
         columns_str = ', '.join(common_columns)
         query = f"""
             INSERT INTO {target_table} ({columns_str})
@@ -176,15 +176,15 @@ def copy_table_data_with_attach(
         
         conn.commit()
         
-        # Detach source database
+        # Quelldatenbank trennen
         cursor.execute("DETACH DATABASE source_db")
         
-        print(f"{copied_count} records successfully copied.")
+        print(f"{copied_count} Datensätze erfolgreich kopiert.")
         
         return copied_count
         
     except sqlite3.Error as e:
-        print(f"Database error: {e}")
+        print(f"Datenbankfehler: {e}")
         raise
         
     finally:
@@ -194,19 +194,19 @@ def copy_table_data_with_attach(
 
 def main():
     """
-    Example main program.
+    Beispiel-Hauptprogramm.
     """
-    # Paths to the databases
+    # Pfade zu den Datenbanken
     base_path = Path(__file__).parent
     source_db = base_path / "quelle.db"
     target_db = base_path / "ziel.db"
     
     print("=" * 60)
-    print("SQLite Data Copy Tool")
+    print("SQLite Daten-Kopier-Tool")
     print("=" * 60)
     
-    # Example 1: Simple copying of all data
-    print("\n--- Method 1: Two separate connections ---")
+    # Beispiel 1: Einfaches Kopieren aller Daten
+    print("\n--- Methode 1: Zwei separate Verbindungen ---")
     try:
         count = copy_table_data(
             source_db=str(source_db),
@@ -214,12 +214,12 @@ def main():
             source_table="lieferanten",
             target_table="lieferanten"
         )
-        print(f"✓ {count} records copied")
+        print(f"✓ {count} Datensätze kopiert")
     except Exception as e:
-        print(f"✗ Error: {e}")
+        print(f"✗ Fehler: {e}")
     
-    # Example 2: Copying with WHERE condition
-    print("\n--- Method 2: Using ATTACH DATABASE (more efficient) ---")
+    # Beispiel 2: Kopieren mit WHERE-Bedingung
+    print("\n--- Methode 2: Mit ATTACH DATABASE (effizienter) ---")
     try:
         count = copy_table_data_with_attach(
             source_db=str(source_db),
@@ -228,12 +228,12 @@ def main():
             target_table="lager",
             where_clause="reserviert = 0"
         )
-        print(f"✓ {count} records copied")
+        print(f"✓ {count} Datensätze kopiert")
     except Exception as e:
-        print(f"✗ Error: {e}")
+        print(f"✗ Fehler: {e}")
     
-    # Example 3: Copying with column mapping
-    print("\n--- Method 3: With custom column mapping ---")
+    # Beispiel 3: Kopieren mit Spaltenzuordnung
+    print("\n--- Methode 3: Mit benutzerdefinierter Spaltenzuordnung ---")
     try:
         column_mapping = {
             "kundennummer": "id",
@@ -247,12 +247,12 @@ def main():
             target_table="kunden_kopie",
             column_mapping=column_mapping
         )
-        print(f"✓ {count} records copied")
+        print(f"✓ {count} Datensätze kopiert")
     except Exception as e:
-        print(f"✗ Error: {e}")
+        print(f"✗ Fehler: {e}")
     
     print("\n" + "=" * 60)
-    print("Done!")
+    print("Fertig!")
 
 
 if __name__ == "__main__":

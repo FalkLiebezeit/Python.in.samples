@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tags Overview - momox.db</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+            padding: 40px;
+            animation: fadeIn 0.5s ease-in;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        h1 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 2.2em;
+            text-align: center;
+            font-weight: 700;
+        }
+        
+        .info {
+            text-align: center;
+            color: #666;
+            margin-bottom: 35px;
+            font-size: 1.1em;
+        }
+        
+        .info strong {
+            color: #667eea;
+        }
+        
+        .table-container {
+            overflow-x: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+        }
+        
+        thead {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        
+        th {
+            padding: 16px;
+            text-align: left;
+            font-weight: 600;
+            text-transform: uppercase;
+            font-size: 0.85em;
+            letter-spacing: 1px;
+            white-space: nowrap;
+        }
+        
+        td {
+            padding: 14px 16px;
+            border-bottom: 1px solid #e8e8e8;
+            color: #333;
+        }
+        
+        tbody tr {
+            transition: all 0.2s ease;
+        }
+        
+        tbody tr:hover {
+            background-color: #f8f9ff;
+            transform: scale(1.001);
+            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.1);
+        }
+        
+        tbody tr:nth-child(even) {
+            background-color: #fafafa;
+        }
+        
+        tbody tr:nth-child(even):hover {
+            background-color: #f0f2ff;
+        }
+        
+        .empty-message {
+            text-align: center;
+            padding: 60px 20px;
+            color: #999;
+            font-size: 1.3em;
+        }
+        
+        .empty-message p {
+            margin: 10px 0;
+        }
+        
+        .footer {
+            margin-top: 35px;
+            padding-top: 25px;
+            border-top: 2px solid #f0f0f0;
+            text-align: center;
+            color: #666;
+            font-size: 0.95em;
+        }
+        
+        .footer a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+            margin: 0 10px;
+            transition: color 0.2s ease;
+        }
+        
+        .footer a:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+        
+        .badge {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 8px 20px;
+            border-radius: 25px;
+            font-size: 0.95em;
+            font-weight: 600;
+            box-shadow: 0 2px 8px rgba(102, 126, 234, 0.3);
+        }
+        
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin: 20px 0;
+        }
+        
+        .stat-item {
+            background: #f8f9ff;
+            padding: 12px 24px;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+        
+        .stat-item strong {
+            color: #667eea;
+            font-size: 1.2em;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 1.6em;
+            }
+            
+            th, td {
+                padding: 10px;
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>📊 Tags Overview</h1>
+        <div class="info">
+            <p>Database: <strong>momox.db</strong> | Table: <strong>Tags</strong></p>
+        </div>
+        
+        <div class="stats">
+            <div class="stat-item">
+                <strong>{{ tags|length }}</strong> Records Found
+            </div>
+            {% if columns %}
+            <div class="stat-item">
+                <strong>{{ columns|length }}</strong> Columns
+            </div>
+            {% endif %}
+        </div>
+        
+        {% if tags %}
+        <div class="table-container">
+            <table>
+                <thead>
+                    <tr>
+                        {% for column in columns %}
+                        <th>{{ column }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for tag in tags %}
+                    <tr>
+                        {% for column in columns %}
+                        <td>{{ tag[column] if tag[column] is not none else '—' }}</td>
+                        {% endfor %}
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+        {% else %}
+        <div class="empty-message">
+            <p>🔍 No data found in the Tags table.</p>
+            <p style="font-size: 0.9em; color: #aaa;">The table might be empty or doesn't exist.</p>
+        </div>
+        {% endif %}
+        
+        <div class="footer">
+            <p>
+                <a href="/raw">📄 View Raw Data</a> | 
+                <a href="/api/tags">🔌 JSON API</a>
+            </p>
+            <p style="margin-top: 10px; color: #999;">Flask Web App - Python Database Viewer</p>
+        </div>
+    </div>
+</body>
+</html>
