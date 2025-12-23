@@ -51,4 +51,6 @@ plt.title("Mandelbrot Set", fontsize=16, fontweight='bold')
 plt.xlabel("Re(c)")
 plt.ylabel("Im(c)")
 plt.tight_layout()
-plt.show()
+plt.savefig('mandelbrot_fractal.png', dpi=150, bbox_inches='tight')
+print("Mandelbrot-Fraktal wurde als 'mandelbrot_fractal.png' gespeichert")
+# plt.show()  # Deaktiviert für nicht-interaktive Umgebungen
