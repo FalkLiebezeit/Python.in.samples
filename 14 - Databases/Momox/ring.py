@@ -17,11 +17,13 @@ JIRA_SEARCH_URL = f'{JIRA_BASE_URL}/search'
 
 # Authentifizierung (aus Umgebungsvariablen laden)
 JIRA_TOKEN = os.getenv('JIRA_API_TOKEN')
-JIRA_EMAIL = os.getenv('JIRA_EMAIL', 'falk.liebezeit@momox.biz')
+JIRA_EMAIL = os.getenv('JIRA_EMAIL')
 
 if not JIRA_TOKEN:
     raise ValueError("JIRA_API_TOKEN Umgebungsvariable nicht gesetzt! Bitte setzen Sie: export JIRA_API_TOKEN='your_token'")
-
+if not JIRA_EMAIL:
+    raise ValueError("JIRA_EMAIL Umgebungsvariable nicht gesetzt! Bitte setzen Sie: export JIRA_EMAIL='user@example.com'")
+AUDIO_OUTPUT_PATH = os.path.expanduser(os.getenv("AUDIO_OUTPUT_PATH", "~/output.wav"))
 # Audio-Konfiguration
 AUDIO_OUTPUT_PATH = "/home/momox/output.wav"
 os.environ['AUDIODEV'] = 'default'

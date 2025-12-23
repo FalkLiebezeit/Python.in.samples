@@ -17,21 +17,25 @@ JIRA_SEARCH_URL = f'{JIRA_BASE_URL}/search'
 
 # Authentifizierung (aus Umgebungsvariablen laden)
 JIRA_TOKEN = os.getenv('JIRA_API_TOKEN')
-JIRA_EMAIL = os.getenv('JIRA_EMAIL', 'falk.liebezeit@momox.biz')
+JIRA_EMAIL = os.getenv('JIRA_EMAIL')
 
 if not JIRA_TOKEN:
     raise ValueError("JIRA_API_TOKEN Umgebungsvariable nicht gesetzt! Bitte setzen Sie: export JIRA_API_TOKEN='your_token'")
-
+if not JIRA_EMAIL:
+    raise ValueError("JIRA_EMAIL Umgebungsvariable nicht gesetzt! Bitte setzen Sie: export JIRA_EMAIL='your_email@example.com'")
+AUDIO_OUTPUT_PATH = os.getenv("AUDIO_OUTPUT_PATH", os.path.expanduser("~/output.wav"))
 # Audio-Konfiguration
-AUDIO_OUTPUT_PATH = "/home/momox/output.wav"
-os.environ['AUDIODEV'] = 'default'
+
+# Pfad zur libaoss.so konfigurierbar machen und nur setzen, wenn vorhanden
+LIBAOSS_PATH = os.getenv('LIBAOSS_PATH', '/usr/lib/x86_64-linux-gnu/libaoss.so')
+if os.path.isfile(LIBAOSS_PATH):
+    os.environ['LD_PRELOAD'] = LIBAOSS_PATH
+else:
+    print(f"Warnung: libaoss wurde unter '{LIBAOSS_PATH}' nicht gefunden. LD_PRELOAD wird nicht gesetzt.")
 os.environ['LD_PRELOAD'] = '/usr/lib/x86_64-linux-gnu/libaoss.so'
 
 # Monitoring-Konfiguration
 PROJECT_KEY = 'LEJSD'
-TARGET_STATUS = "To Do"
-POLL_INTERVAL = 5  # Sekunden zwischen Abfragen
-MAX_RESULTS = 10   # Maximale Anzahl der abzurufenden Issues
 
 # HTTP-Header für Jira-API
 HEADERS = {'Accept': 'application/json'}
