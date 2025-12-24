@@ -10,7 +10,7 @@ import time
 from PIL import Image
 
 # --- Directory containing images ---
-photos_dir = os.path.join(os.getcwd(), ".\others\\foto gallery\Photos")
+photos_dir = os.path.join(os.path.dirname(__file__), "Photos")
 
 # --- Get list of image files (common formats) ---
 image_files = [f for f in os.listdir(photos_dir)
