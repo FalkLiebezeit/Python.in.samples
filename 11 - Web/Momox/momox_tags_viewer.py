@@ -1,5 +1,5 @@
 """
-Flask Web App zur Anzeige aller Daten aus der Tags-Tabelle der momox.db Datenbank
+Web App zur Anzeige aller Daten aus der Tags-Tabelle der momox.db Datenbank
 """
 
 from flask import Flask, render_template
@@ -27,7 +27,7 @@ def index():
         cursor = conn.cursor()
         
         # Alle Daten aus der Tags-Tabelle abrufen
-        cursor.execute('SELECT * FROM Tags')
+        cursor.execute('SELECT * FROM nll')
         tags = cursor.fetchall()
         
         # Spaltennamen ermitteln
@@ -39,6 +39,7 @@ def index():
     
     except sqlite3.Error as e:
         return f"<h1>Datenbankfehler</h1><p>Fehler beim Zugriff auf die Datenbank: {str(e)}</p><p>Stellen Sie sicher, dass die Datei 'momox.db' im gleichen Verzeichnis wie die App existiert.</p>"
+    
     except Exception as e:
         return f"<h1>Fehler</h1><p>Ein Fehler ist aufgetreten: {str(e)}</p>"
 
@@ -50,16 +51,16 @@ def raw_data():
         conn = get_db_connection()
         cursor = conn.cursor()
         
-        cursor.execute('SELECT * FROM Tags')
-        tags = cursor.fetchall()
+        cursor.execute('SELECT * FROM nll')
+        nlls = cursor.fetchall()
         
         conn.close()
         
-        result = "<h1>Tags - Rohdaten</h1>"
-        result += f"<p>Anzahl der Einträge: {len(tags)}</p>"
+        result = "<h1>Nlls - Rohdaten</h1>"
+        result += f"<p>Anzahl der Einträge: {len(nlls)}</p>"
         result += "<ul>"
-        for tag in tags:
-            result += f"<li>{dict(tag)}</li>"
+        for nll in nlls:
+            result += f"<li>{dict(nll)}</li>"
         result += "</ul>"
         result += '<br><a href="/">Zurück zur formatierten Ansicht</a>'
         
