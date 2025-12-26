@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta http-equiv="refresh" content="10">
+    <title>Aktuelles Datum und Uhrzeit</title>
+    <style>
+      /* Soft light blue background and centered content */
+      body {
+        font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial;
+        margin: 0;
+        min-height: 100vh; /* ensure full-height for vertical centering */
+        display: flex;
+        align-items: center; /* vertical centering */
+        justify-content: center; /* horizontal centering */
+        background: #0b3d91; /* dark blue background */
+        color: #ffffff; /* default text color on dark background */
+        padding: 2rem;
+      }
+
+      .card {
+        padding: 1.25rem 2rem;
+        border-radius: 10px;
+        background: #f7f7fb;
+        color: #0b1b2a; /* darker text inside the card for readability */
+        display: inline-block;
+        box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+        text-align: center;
+      }
+
+      /* Much larger, responsive text sizes */
+      h1 {
+        margin: 0 0 0.5rem 0;
+        font-size: clamp(2rem, 6vw, 3.5rem); /* scales between 2rem and 3.5rem */
+        line-height: 1.05;
+      }
+
+      p {
+        margin: 0.25rem 0;
+        font-size: clamp(1.1rem, 2.5vw, 1.5rem); /* larger readable body text */
+      }
+    </style>
+    <script>
+      // Fetch current time from server and update DOM every second
+      async function updateTime() {
+        try {
+          const res = await fetch('/api/time', { cache: 'no-store' });
+          if (!res.ok) return;
+          const data = await res.json();
+          document.getElementById('iso').textContent = data.iso;
+          document.getElementById('human').textContent = data.human;
+        } catch (e) {
+          // silent fail; will retry on next interval
+          console.error('Failed to fetch time', e);
+        }
+      }
+
+      // Start polling after DOM is ready
+      window.addEventListener('DOMContentLoaded', () => {
+        updateTime();
+        setInterval(updateTime, 1000);
+      });
+    </script>
+  </head>
+  <body>
+    <!-- small logo top-right -->
+    <div style="position:fixed; top:12px; right:12px; width:44px; height:44px;">
+      <!-- simple SVG clock-like logo -->
+      <svg viewBox="0 0 24 24" width="44" height="44" aria-hidden="true">
+        <circle cx="12" cy="12" r="10" fill="#0b74de" />
+        <rect x="11.5" y="6" width="1" height="7" fill="#fff" transform="rotate(0 12 12)" />
+        <rect x="12" y="11" width="6" height="1" fill="#fff" transform="rotate(90 12 12)" />
+      </svg>
+    </div>
+    <div class="card">
+      <h1>Aktuelles Datum & Uhrzeit</h1>
+      <p><strong>ISO:</strong> <span id="iso">{{ iso }}</span></p>
+      <p><strong>Lesbar:</strong> <span id="human">{{ human }}</span></p>
+    </div>
+  </body>
+</html>
