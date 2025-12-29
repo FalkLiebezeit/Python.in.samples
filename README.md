@@ -20,6 +20,10 @@ it's simply reproduced here for convenience.
 - Games
 - Complex samples
 - web based apps
+- Data IO
+- Printer
+- Databases
+- Atlassian Jira
 
 # Building
 
