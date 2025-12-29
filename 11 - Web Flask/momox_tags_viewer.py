@@ -26,8 +26,8 @@ def index():
         conn = get_db_connection()
         cursor = conn.cursor()
         
-        # Alle Daten aus der Tags-Tabelle abrufen
-        cursor.execute('SELECT * FROM Tags')
+        # Alle Daten aus der nll-Tabelle abrufen
+        cursor.execute('SELECT * FROM nll')
         tags = cursor.fetchall()
         
         # Spaltennamen ermitteln
@@ -50,7 +50,7 @@ def raw_data():
         conn = get_db_connection()
         cursor = conn.cursor()
         
-        cursor.execute('SELECT * FROM Tags')
+        cursor.execute('SELECT * FROM nll')
         tags = cursor.fetchall()
         
         conn.close()
