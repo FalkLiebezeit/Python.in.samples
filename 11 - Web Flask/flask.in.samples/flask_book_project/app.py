@@ -1,0 +1,12 @@
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route("/")
+def hello_world():
+    return "<h1>Hello, World!</h1>"
+
+
+if __name__ == "__main__":
+    # Start the development server. Open in browser: http://127.0.0.1:5000/
+    app.run(debug=True, host="127.0.0.1", port=5000)
