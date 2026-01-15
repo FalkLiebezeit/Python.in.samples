@@ -1,0 +1,15 @@
+#16_sympy_taylor.py
+from sympy import *
+x=symbols('x')
+f1=cos(x)
+f2=sin(x)
+f3=exp(x)
+f4=sinh(x)
+f5=cosh(x)
+f6=atan(x)
+print("cos(x) =",series(f1,x,n=10))
+print("sin(x) =",series(f2,x,n=10))
+print("exp(x) =",series(f3,x,n=6))
+print("sinh(x)=",series(f4,x,n=6))
+print("cosh(x)=",series(f5,x,n=10))
+print("atan(x)=",series(f6,x,n=11))
