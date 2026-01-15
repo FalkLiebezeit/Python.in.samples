@@ -12,7 +12,7 @@ def standardabweichung(x):
         v=v+(x[i]-m)**2
     return np.sqrt(v/(n-1))
 
-a=np.loadtxt('daten.txt')
+a=np.loadtxt('c:/Users/Falk/source/repos/Python.in.samples/12 - DataInput/daten.txt')
 print("Standardabweichung")
 print(standardabweichung(a))
 print(np.std(a,ddof=1),"NumPy")

@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from scipy.stats import mode
 
-a=np.loadtxt("../daten.txt")
+a=np.loadtxt("c:/Users/Falk/source/repos/Python.in.samples/12 - DataInput/daten.txt")
 modus=mode(a)
 m=modus[0]
 median=np.median(a)
