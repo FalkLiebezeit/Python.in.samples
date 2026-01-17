@@ -1,11 +1,79 @@
-﻿"""Calculation of a repayment plan for a loan and visualization."""
+﻿n"""Calculation of a repayment plan for a loan and visualization."""
 
 import matplotlib.pyplot as plt
+import sys
 
-# --- Initial loan parameters ---
-principal = 350_000        # Initial debt in euros
-interest_rate = 1.9        # Annual interest rate in percent
-monthly_payment = 1_800    # Monthly payment in euros
+
+def get_float_input(prompt: str, default: float = None) -> float:
+    """Get a float input from user with optional default value."""
+    while True:
+        try:
+            if default is not None:
+                user_input = input(f"{prompt} (Standard: {default:,.2f}): ").strip()
+                if not user_input:
+                    return default
+            else:
+                user_input = input(f"{prompt}: ").strip()
+            
+            value = float(user_input.replace(',', '.'))
+            if value <= 0:
+                print("Fehler: Wert muss größer als 0 sein.")
+                continue
+            return value
+        except ValueError:
+            print("Fehler: Bitte eine gültige Zahl eingeben.")
+        except KeyboardInterrupt:
+            print("\n\nAbgebrochen.")
+            sys.exit(1)
+
+
+def get_loan_parameters():
+    """Get loan parameters from user input."""
+    print("=== Tilgungsplan-Rechner ===\n")
+    
+    principal = get_float_input("Darlehensbetrag in € eingeben", 350_000)
+    interest_rate = get_float_input("Jahreszinssatz in % eingeben", 1.9)
+    monthly_payment = get_float_input("Monatliche Rate in € eingeben", 1_800)
+    
+    # Validate that monthly payment is sufficient
+    min_monthly_interest = principal * interest_rate / 100 / 12
+    if monthly_payment <= min_monthly_interest:
+        print(f"\nWarnung: Die monatliche Rate ({monthly_payment:.2f} €) ist zu niedrig!")
+        print(f"Sie muss mindestens {min_monthly_interest:.2f} € betragen, um die Zinsen zu decken.")
+        print("Das Darlehen könnte sonst nie vollständig zurückgezahlt werden.\n")
+        
+        retry = input("Möchten Sie die Eingaben wiederholen? (j/n): ").strip().lower()
+        if retry == 'j':
+            return get_loan_parameters()
+        else:
+            sys.exit(1)
+    
+    print(f"\n{'='*60}")
+    print(f"Darlehensbetrag:    {principal:>15,.2f} €")
+    print(f"Jahreszinssatz:     {interest_rate:>15.2f} %")
+    print(f"Monatliche Rate:    {monthly_payment:>15,.2f} €")
+    print(f"{'='*60}\n")
+    
+    return principal, interest_rate, monthly_payment
+
+
+# --- Get loan parameters from user or use defaults ---
+try:
+    use_interactive = input("Möchten Sie die Werte interaktiv eingeben? (j/n, Standard: n): ").strip().lower()
+    if use_interactive == 'j':
+        principal, interest_rate, monthly_payment = get_loan_parameters()
+    else:
+        # Use default values
+        principal = 350_000        # Initial debt in euros
+        interest_rate = 1.9        # Annual interest rate in percent
+        monthly_payment = 1_800    # Monthly payment in euros
+        print("\nVerwende Standardwerte:")
+        print(f"Darlehensbetrag: {principal:,.2f} €")
+        print(f"Jahreszinssatz: {interest_rate:.2f} %")
+        print(f"Monatliche Rate: {monthly_payment:,.2f} €\n")
+except KeyboardInterrupt:
+    print("\n\nAbgebrochen.")
+    sys.exit(1)
 
 # --- Initialize tracking variables ---
 month = 0

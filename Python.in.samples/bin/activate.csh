@@ -9,7 +9,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV /home/falk/Python.in.samples/python.in.samples
+setenv VIRTUAL_ENV /home/falk/repos/Python.in.samples/Python.in.samples
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/"bin":$PATH"
@@ -18,8 +18,8 @@ setenv PATH "$VIRTUAL_ENV/"bin":$PATH"
 set _OLD_VIRTUAL_PROMPT="$prompt"
 
 if (! "$?VIRTUAL_ENV_DISABLE_PROMPT") then
-    set prompt = '(python.in.samples) '"$prompt"
-    setenv VIRTUAL_ENV_PROMPT '(python.in.samples) '
+    set prompt = '(Python.in.samples) '"$prompt"
+    setenv VIRTUAL_ENV_PROMPT '(Python.in.samples) '
 endif
 
 alias pydoc python -m pydoc
